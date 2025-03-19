@@ -17,8 +17,10 @@ favicon = "favicon-32x32.svg"
 
 [params.homepage]
 sticky_header = true
-show_contact_box = true      # show / hide the contaxt box on the homepage
+show_contact_box = false      # show / hide the contaxt box on the homepage
 show_services_button = false # show / hide the "view all services" button
+show_services = false
+show_features = false
 
 [params.logo]
 mobile = "images/logo/logo-mobile.svg"
@@ -34,8 +36,8 @@ heading = "Playfair Display"
 base = "Source Sans Pro"
 
 [params.colors]
-primary = "#f24088"
-black = "#2f2f41"
+primary = "#284973"
+black = "#000000"
 white = "#ffffff"
 white_offset = "#f6f7ff"
 grey = "#5C5A5A"
@@ -78,7 +80,7 @@ weight = 4
 
 [[menu.main]]
 name = "Outputs"
-url = "/contact/"
+url = "/outputs/"
 weight = 5
 
 
