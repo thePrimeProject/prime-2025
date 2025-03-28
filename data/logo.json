@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Logo 1",
+    "image": "images/alies/cu.png",
+    "url": "https://www.ejemplo1.com"
+  },
+  {
+    "name": "Logo 2",
+    "image": "images/alies/hwu.png",
+    "url": "https://www.ejemplo2.com"
+  },
+  {
+    "name": "Logo 3",
+    "image": "images/alies/OU_Master_LOGO_BLACK_125mm.jpg",
+    "url": "https://www.ejemplo3.com"
+  },
+  {
+    "name": "Logo 4",
+    "image": "images/logos/logo4.png",
+    "url": "https://www.ejemplo4.com"
+  }
+]

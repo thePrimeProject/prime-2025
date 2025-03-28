@@ -1,21 +1,38 @@
 {{ define "body_classes" }}page-home{{ end }}
 
 {{ define "main" }}
-<div class="intro">
-  <div class="container">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        {{ .Content }}
-        {{ if .Site.Params.homepage.show_contact_box }}
-        {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
-        {{ end }}
-      </div>
-      {{ partial "intro-image.html" . }}
-    </div>
+<div class="head">
+  <div class="container-fluid">
+    {{ partial "banner-background.html" (dict
+    "image" "images/home/parent-and-child.jpg"
+    "description" "Delivering innovative harm-reduction interventions, processes and technologies to transform online services and create safer spaces for Minority Ethnic (ME) communities."
+    "color" "white"
+    ) }}
   </div>
 </div>
 
+{{ range .Site.Data.home_features }}
+{{ partial "cta-block.html" (dict
+"image" .image
+"title" .title
+"description" .description
+"button_link" .button_link
+"button_text" .button_text
+"image_order" (.image_order | default "0")
+)}}
 {{ end }}
+<div class="pre-footer">
+  <div class="container-fluid">
+    {{ partial "banner-background.html" (dict
+    "image" "images/home/people-cellphone.jpg"
+    "description" "Tackling racialised inequalities and discrimination in the design and delivery of digital health, housing and energy service"
+    "color" "black"
+    ) }}
+  </div>
+</div>
+{{ end }}
+
+
 
 {{ define "footer_js" }}
 {{ end }}

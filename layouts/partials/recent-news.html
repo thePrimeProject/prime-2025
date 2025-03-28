@@ -1,0 +1,14 @@
+<div class="container recent-news my-5">
+    <h2>News</h2>
+    <div class="row">
+        {{ range first 3 (where .Site.RegularPages "Section" "news").ByDate.Reverse }}
+        <div class="col-md-4 mb-4">
+            <div class="news-item">
+                <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                <p>{{ .Summary }}</p>
+                <a href="{{ .Permalink }}">Read more →</a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>

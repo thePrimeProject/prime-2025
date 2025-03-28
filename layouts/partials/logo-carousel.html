@@ -1,0 +1,38 @@
+<!-- Glide.js CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/glide.min.js"></script>
+
+<div class="logo-carousel container py-4">
+    <div class="glide">
+        <div class="glide__track" data-glide-el="track">
+            <ul class="glide__slides">
+                {{ range .Site.Data.logos }}
+                <li class="glide__slide text-center">
+                    <a href="{{ .url }}" target="_blank">
+                        <img src="{{ .image | relURL }}" alt="{{ .name }}" style="max-height:80px; max-width:100%; object-fit:contain;">
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="glide__arrows" data-glide-el="controls">
+            <button class="glide__arrow glide__arrow--left" data-glide-dir="<">«</button>
+            <button class="glide__arrow glide__arrow--right" data-glide-dir=">">»</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        new Glide('.glide', {
+            type: 'carousel',
+            autoplay: 3000,
+            perView: 4,
+            breakpoints: {
+                1024: { perView: 4 },
+                768: { perView: 2 },
+                500: { perView: 1 }
+            }
+        }).mount();
+    });
+</script>

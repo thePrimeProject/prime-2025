@@ -1,0 +1,18 @@
+[
+  {
+    "title": "About prime",
+    "description": "\nIdentifying, categorising and conceptualising the distinctive online harms that the UK’s minoritised ethnic communities face.",
+    "image": "images/home/women-prime.jpg",
+    "button_text": "About PRIME",
+    "button_link": "/about",
+    "image_order": "0"
+  },
+  {
+    "title": "News",
+    "description": "\nDeveloping innovative and ground-breaking policy tools to keep minoritised ethnic communities safe online.",
+    "image": "images/home/two.jpg",
+    "button_text": "Latest News",
+    "button_link": "/news",
+    "image_order": "1"
+  }
+]

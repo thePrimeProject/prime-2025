@@ -8,4 +8,3 @@ intro_image_hide_on_mobile: false
 
 # News
 
-Our team of qualified accountants can help your business at any stage. 

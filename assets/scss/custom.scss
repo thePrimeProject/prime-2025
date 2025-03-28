@@ -1,0 +1,123 @@
+// assets/scss/custom.scss
+$azul-light: #E9F4F6;
+$azul-dark: #284973;
+$red: #5D2B39;
+$brown: #965D50;
+$yellow: #DECA4E;
+$cream: #E6D9CA;
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.noto-sans {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+.feature-block {
+  padding: 3rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+
+  h2 {
+    color: #f24088; // puedes usar variables SCSS del theme también
+  }
+
+  p {
+    color: #555;
+  }
+}
+
+.btn {
+  &-primary {
+    background-color: $red !important;
+    border-color: $red;
+  }
+}
+
+.back-image {
+  position: relative;
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+
+  p {
+    //background: rgba(230, 217, 202, 0.6);
+    position: absolute;
+    top: 420px;
+    left: 20px;
+    text-align: left;
+    padding: 45px 15px;
+    font-size: 42px;
+    max-width: 70%;
+    line-height: 48px;
+  }
+  &.white{
+    .bg-image{
+      opacity: 0.9;
+    }
+    p {
+      color: #fff;
+    }
+  }
+  &.black{
+    .bg-image{
+      opacity: 0.5;
+    }
+    p{
+      color: #000;
+    }
+  }
+}
+
+/*news*/
+.recent-news {
+  .news-item {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    height: 100%;
+
+    h4 {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+
+      a {
+        color: #f24088;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    p {
+      color: #666;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+  }
+}

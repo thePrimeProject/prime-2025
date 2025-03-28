@@ -1,0 +1,13 @@
+<div class="feature-block container my-5">
+    <div class="row align-items-center">
+        <div class="col-md-6 order-md-{{ .image_order }}">
+            <img src="{{ .image | relURL }}" alt="{{ .title }}" class="img-fluid rounded">
+        </div>
+        <div class="col-md-6">
+            <p>{{ .description }}</p>
+            {{ if .button_link }}
+            <a href="{{ .button_link }}" class="btn btn-primary">{{ .button_text }}</a>
+            {{ end }}
+        </div>
+    </div>
+</div>
