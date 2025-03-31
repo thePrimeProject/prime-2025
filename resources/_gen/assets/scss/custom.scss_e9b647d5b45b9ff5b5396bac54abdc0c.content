@@ -75,4 +75,5 @@
     color: #007bff;
     text-decoration: none; }
 
-/*# sourceMappingURL=style.css.map */
+.intro p {
+  width: 100%; }

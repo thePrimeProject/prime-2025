@@ -16,7 +16,17 @@
   },
   {
     "name": "Logo 4",
-    "image": "images/logos/logo4.png",
+    "image": "images/alies/ug.png",
+    "url": "https://www.ejemplo4.com"
+  },
+  {
+    "name": "Logo 5",
+    "image": "images/alies/uy.png",
+    "url": "https://www.ejemplo4.com"
+  },
+  {
+    "name": "Logo 6",
+    "image": "images/alies/EPSRClogo.jpg",
     "url": "https://www.ejemplo4.com"
   }
 ]

@@ -26,6 +26,7 @@ $cream: #E6D9CA;
   font-style: normal;
   font-variation-settings: "wdth" 100;
 }
+
 .feature-block {
   padding: 3rem;
   background-color: #f9f9f9;
@@ -55,10 +56,12 @@ $cream: #E6D9CA;
 
 .back-image {
   position: relative;
-  img{
+
+  img {
     max-width: 100%;
     height: auto;
   }
+
 
   p {
     //background: rgba(230, 217, 202, 0.6);
@@ -71,19 +74,23 @@ $cream: #E6D9CA;
     max-width: 70%;
     line-height: 48px;
   }
-  &.white{
-    .bg-image{
+
+  &.white {
+    .bg-image {
       opacity: 0.9;
     }
+
     p {
       color: #fff;
     }
   }
-  &.black{
-    .bg-image{
+
+  &.black {
+    .bg-image {
       opacity: 0.5;
     }
-    p{
+
+    p {
       color: #000;
     }
   }
@@ -119,5 +126,11 @@ $cream: #E6D9CA;
       color: #007bff;
       text-decoration: none;
     }
+  }
+}
+
+.intro{
+  p{
+    width: 100%;
   }
 }

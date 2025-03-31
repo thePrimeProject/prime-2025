@@ -1,12 +1,10 @@
----
-title: "Content Placeholder"
-_build:
-  render: never
-  list: never
-  publishResources: false
----
++++
+title = 'About'
+date = 2025-03-29T12:29:11-05:00
+draft = true
++++
 
-# About PRIME
+## OVERVIEW
 
 The Protecting Minority Ethnic Communities Online (PRIME) project will deliver innovative harm-reduction interventions,
 processes and technologies which will transform digital services, especially in the interconnected areas of health,

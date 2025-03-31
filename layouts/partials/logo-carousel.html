@@ -1,38 +1,43 @@
-<!-- Glide.js CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/glide.min.js"></script>
-
 <div class="logo-carousel container py-4">
-    <div class="glide">
-        <div class="glide__track" data-glide-el="track">
-            <ul class="glide__slides">
+    <div class="swiper logos-swiper">
+        <div class="swiper-wrapper">
                 {{ range .Site.Data.logos }}
-                <li class="glide__slide text-center">
+                <div class="swiper-slide">
                     <a href="{{ .url }}" target="_blank">
                         <img src="{{ .image | relURL }}" alt="{{ .name }}" style="max-height:80px; max-width:100%; object-fit:contain;">
                     </a>
-                </li>
+                </div>
                 {{ end }}
-            </ul>
         </div>
-        <div class="glide__arrows" data-glide-el="controls">
-            <button class="glide__arrow glide__arrow--left" data-glide-dir="<">«</button>
-            <button class="glide__arrow glide__arrow--right" data-glide-dir=">">»</button>
-        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
     </div>
 </div>
 
+<!-- Inicializar Swiper -->
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        new Glide('.glide', {
-            type: 'carousel',
-            autoplay: 3000,
-            perView: 4,
+    document.addEventListener("DOMContentLoaded", function() {
+        var swiper = new Swiper(".logos-swiper", {
+            slidesPerView: 5,
+            spaceBetween: 30,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            loop: true,
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
             breakpoints: {
-                1024: { perView: 4 },
-                768: { perView: 2 },
-                500: { perView: 1 }
+                1024: { slidesPerView: 4 },
+                768: { slidesPerView: 3 },
+                500: { slidesPerView: 1 }
             }
-        }).mount();
+        });
     });
 </script>
