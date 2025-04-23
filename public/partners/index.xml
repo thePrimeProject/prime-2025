@@ -6,7 +6,14 @@
     <description>Recent content in Partners on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 23:20:54 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advisory Board</title>
+      <link>//localhost:1313/partners/advisory-board/</link>
+      <pubDate>Tue, 22 Apr 2025 23:20:54 -0500</pubDate>
+      <guid>//localhost:1313/partners/advisory-board/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
