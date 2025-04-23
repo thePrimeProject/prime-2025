@@ -9,6 +9,10 @@ title = "PRIME"
 extended = true
 min = "0.55.0"
 
+[markup.goldmark.renderer]
+unsafe = true
+
+
 [params]
 # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
 google_analytics_id = ""

@@ -14,7 +14,7 @@
 
 <div class="container">
   <div class="row">
-    {{ range sort .Pages ".Params.order" "desc" }}
+    {{ range sort .Pages ".Params.order" "asc" }}
     <div class="col-12 col-md-4 mb-2">{{ .Render "summary-large" }}</div>
     {{ end }}
   </div>

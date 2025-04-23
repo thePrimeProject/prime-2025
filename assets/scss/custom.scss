@@ -6,6 +6,26 @@ $brown: #965D50;
 $yellow: #DECA4E;
 $cream: #E6D9CA;
 
+h1{
+  font-size: 2rem;
+}
+h2{
+  font-size: 1.6rem;
+}
+h3{
+  font-size: 1.4rem;
+}
+h4{
+  font-size: 1.2rem;
+}
+p{
+  font-size: 1rem;
+}
+ul{
+  margin-left: 2.5rem;
+}
+
+
 .poppins-extralight {
   font-family: "Poppins", sans-serif;
   font-weight: 200;
@@ -130,7 +150,11 @@ $cream: #E6D9CA;
 }
 
 .intro{
+  h2{
+    font-size: 1.4rem;
+  }
   p{
     width: 100%;
+    font-size: 1rem !important;
   }
 }
