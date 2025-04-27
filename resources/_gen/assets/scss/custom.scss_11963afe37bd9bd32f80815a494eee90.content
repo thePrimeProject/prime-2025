@@ -1,6 +1,18 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans", sans-serif !important;
+  font-optical-sizing: auto;
+  color: #000000 !important; }
+
 h1 {
   font-size: 2rem;
-  text-align: center; }
+  text-align: center;
+  width: 100% !important; }
 
 h2 {
   font-size: 1.6rem; }
@@ -12,27 +24,21 @@ h4 {
   font-size: 1.2rem; }
 
 p {
-  font-size: 1rem; }
+  font-size: 1rem;
+  color: #000000 !important; }
 
-ul {
-  margin-left: 2.5rem; }
-
-.poppins-extralight {
+ul, ol {
+  margin-left: 2.5rem;
   font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  font-style: normal; }
-
-.poppins-regular {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal; }
-
-.noto-sans {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-variation-settings: "wdth" 100; }
+  color: #000000 !important; }
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000 !important; }
 
 .feature-block {
   padding: 3rem;
@@ -94,11 +100,17 @@ ul {
     color: #007bff;
     text-decoration: none; }
 
-.intro h2 {
-  font-size: 1.4rem; }
+.intro {
+  padding-top: 15px !important; }
+  .intro h2 {
+    font-size: 1.4rem; }
+  .intro p {
+    width: 100%;
+    font-size: 1rem !important; }
 
-.intro p {
-  width: 100%;
-  font-size: 1rem !important; }
+.footer-logo {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px; }
 
 /*# sourceMappingURL=style.css.map */

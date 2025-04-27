@@ -1,0 +1,36 @@
+<div id="main-menu" class="main-menu">
+    <ul>
+        {{ $currentPage := . }}
+        {{/* 1) Recorre solo los ítems de primer nivel (sin parent) */}}
+        {{ range where .Site.Menus.main ".Parent" "==" "" }}
+        {{ $item := . }}
+        {{/* determina si está activo */}}
+        {{ $active := or ($currentPage.IsMenuCurrent "main" $item) ($currentPage.HasMenuCurrent "main" $item) }}
+        {{ $active = or $active (eq ($item.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+
+        <li class="nav-item menu-item-{{ $item.Name | urlize }} {{ if $active }}active{{ end }} {{ if $item.HasChildren }}dropdown{{ end }}">
+            <a href="{{ $item.URL }}" {{ if $item.HasChildren }} class="nav-link dropdown-toggle" {{ end }}>
+                {{ $item.Pre }}<span>{{ $item.Name }}</span>
+            </a>
+
+            {{/* 2) Si tiene hijos, dibuja el sub-menú */}}
+            {{ if $item.HasChildren }}
+            <ul class="dropdown-menu">
+                {{ range $item.Children }}
+                {{ $child := . }}
+                {{/* sub-ítem activo? */}}
+                {{ $childActive := or ($currentPage.IsMenuCurrent "main" $child) ($currentPage.HasMenuCurrent "main" $child) }}
+                {{ $childActive = or $childActive (eq ($child.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+
+                <li class="menu-item-{{ $child.Name | urlize }} {{ if $childActive }}active{{ end }}">
+                    <a href="{{ $child.URL }}">
+                        {{ $child.Pre }}<span>{{ $child.Name }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</div>

@@ -74,8 +74,15 @@ weight = 2
 
 [[menu.main]]
 name = "Partners"
+identifier ="partners"
 url = "/partners/"
 weight = 3
+
+[[menu.main]]
+parent = "partners"
+name = "Hello"
+url = "/partners/advisory-board/"
+weight = 1
 
 [[menu.main]]
 name = "News"

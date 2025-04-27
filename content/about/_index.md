@@ -1,9 +1,8 @@
 +++
-title = 'About'
+title = 'About prime'
 date = 2025-03-29T12:29:11-05:00
 draft = false
 +++
-
 ## OVERVIEW
 
 The Protecting Minority Ethnic Communities Online (PRIME) project will deliver innovative harm-reduction interventions,
