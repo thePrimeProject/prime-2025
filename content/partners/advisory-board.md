@@ -31,3 +31,22 @@ PERSON OF LIVED EXPERIENCE
 {{% /row %}}
 
 ## Participating Organisations
+
+{{% row class="text-align mt-5" %}}
+{{% col size="4" class="mb-2" %}}
+{{< img
+src="/images/about/people-talking.jpg"
+alt="People talking"
+class="img-fluid rounded"
+>}}
+### brap
+{{% /col %}}
+
+{{% col size="4" class="mb-2" %}}
+### Cemvo
+{{% /col %}}
+
+{{% col size="4" class="mb-2" %}}
+### Catapult
+{{% /col %}}
+{{% /row %}}

@@ -80,9 +80,15 @@ weight = 3
 
 [[menu.main]]
 parent = "partners"
-name = "Hello"
+name = "Advisory board"
 url = "/partners/advisory-board/"
 weight = 1
+
+[[menu.main]]
+parent = "partners"
+name = "Community partners"
+url = "/partners/community-partners"
+weight = 2
 
 [[menu.main]]
 name = "News"
