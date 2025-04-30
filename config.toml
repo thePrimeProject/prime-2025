@@ -101,6 +101,24 @@ url = "/outputs/"
 weight = 5
 
 [[menu.main]]
+parent = "Outputs"
+name = "Code of practice"
+url = "/outputs/code-of-practice"
+weight = 6
+
+[[menu.main]]
+parent = "Outputs"
+name = "Design guidelines"
+url = "/outputs/desing-guidelines"
+weight = 6
+
+[[menu.main]]
+parent = "Outputs"
+name = "Academic publications"
+url = "/outputs/academic-publications"
+weight = 5
+
+[[menu.main]]
 name = "Contact"
 url = "/contact/"
 weight = 6

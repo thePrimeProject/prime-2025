@@ -31,22 +31,109 @@ PERSON OF LIVED EXPERIENCE
 {{% /row %}}
 
 ## Participating Organisations
-
-{{% row class="text-align mt-5" %}}
-{{% col size="4" class="mb-2" %}}
+{{% container class="mt-5 organisations" %}}
+{{% row class="mt-5 justify-content-between" %}}
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
 {{< img
-src="/images/about/people-talking.jpg"
-alt="People talking"
+src="/images/advisory/BRAP.png"
+alt="BRAP"
 class="img-fluid rounded"
 >}}
-### brap
+### BRAP
 {{% /col %}}
 
-{{% col size="4" class="mb-2" %}}
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/CEMVO.png"
+alt="CEMVO"
+class="img-fluid rounded"
+>}}
 ### Cemvo
 {{% /col %}}
 
-{{% col size="4" class="mb-2" %}}
-### Catapult
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/CES.png"
+alt="Catapult"
+class="img-fluid rounded"
+>}}
+### Catapult Energy Systems
 {{% /col %}}
 {{% /row %}}
+
+{{% row class="text-align mt-5 justify-content-between" %}}
+{{% col size="3" class="mb-2  d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/COSLA.jpg"
+alt="COSLA"
+class="img-fluid rounded"
+>}}
+### COSLA
+{{% /col %}}
+{{% col size="3" class="mb-2  d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/DigiScot.jpg"
+alt="Digital Scotland"
+class="img-fluid rounded"
+>}}
+### Digital Scotland
+{{% /col %}}
+
+{{% col size="3" class="mb-2  d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/MCB.jpg"
+alt="MCB"
+class="img-fluid rounded"
+>}}
+### The Muslim Council of Britain
+{{% /col %}}
+{{% /row %}}
+
+{{% row class="text-align mt-5 justify-content-between" %}}
+{{% col size="3" class="mb-2  d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/MHF.png"
+alt="MHF"
+class="img-fluid rounded"
+>}}
+### Mental Health Foundation
+{{% /col %}}
+
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/NHS-RnHO.png"
+alt="MHS-RNHO"
+class="img-fluid rounded"
+>}}
+### NHS Race & Health Observatory
+{{% /col %}}
+
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/PHS.png"
+alt="PHS"
+class="img-fluid rounded"
+>}}
+### Public Health Scotland
+{{% /col %}}
+{{% /row %}}
+
+{{% row class="text-align mt-5 justify-content-between" %}}
+{{% col size="3" class="mb-2 d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/SHFA.png"
+alt="SHFA"
+class="img-fluid rounded"
+>}}
+### Scottish Federation of Housing Associations
+{{% /col %}}
+{{% col size="3" class="mb-2  d-flex flex-column justify-content-end text-center" %}}
+{{< img
+src="/images/advisory/UKCCHE.png"
+alt="UKCCHE"
+class="img-fluid rounded"
+>}}
+### UK Collaborative Centre for Housing Evidence
+{{% /col %}}
+{{% /row %}}
+{{% /container %}}
