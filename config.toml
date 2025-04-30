@@ -114,6 +114,13 @@ weight = 6
 
 [[menu.main]]
 parent = "Outputs"
+name = "PRIME Technical Toolkit"
+url = "https://primetoolkit.co.uk/"
+weight = 7
+
+
+[[menu.main]]
+parent = "Outputs"
 name = "Academic publications"
 url = "/outputs/academic-publications"
 weight = 5
