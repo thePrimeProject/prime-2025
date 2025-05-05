@@ -13452,8 +13452,8 @@ p {
     color: #555; }
 
 .btn-primary {
-  background-color: #5D2B39 !important;
-  border-color: #5D2B39; }
+  background-color: #000000 !important;
+  border-color: #000000; }
 
 .back-image {
   position: relative; }
@@ -13469,6 +13469,12 @@ p {
     font-size: 42px;
     max-width: 70%;
     line-height: 48px; }
+    @media (max-width: 768px) {
+      .back-image p {
+        top: 30px;
+        font-size: 16px;
+        line-height: 18px;
+        color: #000000 !important; } }
   .back-image.white .bg-image {
     opacity: 0.9; }
   .back-image.white p {
