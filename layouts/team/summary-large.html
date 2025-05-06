@@ -11,9 +11,15 @@
     </h2>
 
     {{ if .Params.Linkedinurl }}
-    <a target="_blank" rel="noreferrer" href="{{ .Params.Linkedinurl }}">LinkedIn</a> {{ end }}
+    <a target="_blank" rel="noreferrer" href="{{ .Params.Linkedinurl }}">LinkedIn</a> | {{ end }}
     {{ if .Params.Twitterhandle }}
     <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
+    {{ if .Params.website }}
+    | <a target="_blank" rel="noreferrer" href="{{ .Params.website }}">Website</a>
+    {{ end }}
+    {{ if .Params.SlideShare }}
+    | <a target="_blank" rel="noreferrer" href="{{ .Params.SlideShare }}">SlideShare</a>
+    {{ end }}
   </div>
   <div class="team-content"> {{.Content}}</div>
 </div>

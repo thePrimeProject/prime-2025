@@ -17,7 +17,7 @@ funded by UK Research and Innovation (UKRI) for a period of three years.
 {{< img
 src="/images/about/people-talking.jpg"
 alt="People talking"
-class="img-fluid rounded"
+class="img-fluid rounded mt-5"
 >}}
 {{% /col %}}
 

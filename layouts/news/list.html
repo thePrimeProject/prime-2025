@@ -1,0 +1,21 @@
+{{ define "body_classes" }}page-default-list{{ end }}
+
+{{ define "main" }}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-12 col-lg-12">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+
+<div class="container pt-6 pb-md-12 news">
+    <div class="row">
+        {{ range .Pages.ByWeight }}
+        <div class="col-12 col-md-6 mb-2 new-card">{{ .Render "summary" }}</div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

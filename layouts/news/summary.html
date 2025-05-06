@@ -1,0 +1,10 @@
+<div class="summary position-relative h-100">
+    <h2>
+        {{ .Title }}
+    </h2>
+    {{ .Content | truncate 120 "…" }}
+    <div class="position-absolute bottom-0 start-0">
+        <a class="btn btn-primary" href="{{ .RelPermalink }}">Read More</a>
+    </div>
+
+</div>

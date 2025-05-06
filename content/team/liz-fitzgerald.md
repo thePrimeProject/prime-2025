@@ -3,7 +3,7 @@ title: "Liz FitzGerald"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/elizabeth-fitzgerald.jpg"
 jobtitle: "Dr"
-website: 'https://www.website.com/'
+website: 'https://iet.open.ac.uk/people/elizabeth.fitzgerald'
 Twitterhandle: 'netto_gina'
 GoogleScholar: 'https://www.google.scholar.edu.co/'
 Academiaedu: 'https://www.academia.edu.co/'
