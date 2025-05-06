@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Apr 2025 06:12:37 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 14:13:21 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accounting</title>
@@ -203,6 +203,27 @@
       <pubDate>Sat, 29 Mar 2025 14:04:11 -0500</pubDate>
       <guid>//localhost:1313/team/zinat-aboli/</guid>
       <description>Dr Zinat Aboli is a researcher at Cranfield University. Zinat holds a PhD in Sociology from the University of Mumbai. Her research experience and interests include themes related to gender, socio spatial segregation, social justice, and inclusion. Presently her work in the PRIME project involves engaging with a range of stakeholders across England and Scotland to understand ethnicity related bias and digital discrimination in AI and digital services. As an Assistant Professor she taught a variety of academic university courses on media education to undergraduate and graduate students in India.</description>
+    </item>
+    <item>
+      <title>Links and Media</title>
+      <link>//localhost:1313/outputs/links-and-media/</link>
+      <pubDate>Tue, 06 May 2025 14:13:21 -0500</pubDate>
+      <guid>//localhost:1313/outputs/links-and-media/</guid>
+      <description> Panel Session - Scottist AI Summit Protecting Minority Ethnic Communities Online (PRIME), AI and Racial Justice This interactive session engaged participants of the Scottish AI Summit in knowledge exchange with the UK Research and Innovation-funded transdisciplinary and cross-institutional PRIME project along with two of our partner organisations, the Glasgow-based Council of Ethnic Minority Voluntary Organisations and the Manchester-based Caribbean African Health Network.&#xA;Learn more </description>
+    </item>
+    <item>
+      <title>Posters</title>
+      <link>//localhost:1313/outputs/posters/</link>
+      <pubDate>Tue, 06 May 2025 13:42:56 -0500</pubDate>
+      <guid>//localhost:1313/outputs/posters/</guid>
+      <description>Experiences of African Refugee Women in Accessing Digital Mental Health Services Eunice Anteh, Gina Netto and Sacha Hasan | Black History Month 2024, FJSS Female refugees have higher prevalence of anxiety and depression but refugee women of African descent, in particular, face further substantial challenges from racial discrimination, unique cultural contexts, and systemic barriers that exacerbate access and use of mental health services. To investigate the needs and experiences of refugee women of African descent in accessing and using digital mental health services and to recommend strategies in the design and delivery of social and digital tools or models to improve these services.</description>
+    </item>
+    <item>
+      <title>Graphics</title>
+      <link>//localhost:1313/outputs/graphics/</link>
+      <pubDate>Tue, 06 May 2025 11:11:38 -0500</pubDate>
+      <guid>//localhost:1313/outputs/graphics/</guid>
+      <description>Hola! This is a test of the graphics page.</description>
     </item>
     <item>
       <title>Community Partners</title>

@@ -74,7 +74,7 @@ weight = 2
 
 [[menu.main]]
 name = "Partners"
-identifier ="partners"
+identifier = "partners"
 url = "/partners/"
 weight = 3
 
@@ -102,6 +102,18 @@ weight = 5
 
 [[menu.main]]
 parent = "Outputs"
+name = "Posters"
+url = "/outputs/posters"
+weight = 3
+
+[[menu.main]]
+parent = "Outputs"
+name = "Links and media"
+url = "/outputs/links-and-media"
+weight = 4
+
+[[menu.main]]
+parent = "Outputs"
 name = "Code of practice"
 url = "/outputs/code-of-practice"
 weight = 6
@@ -110,7 +122,7 @@ weight = 6
 parent = "Outputs"
 name = "Design guidelines"
 url = "/outputs/desing-guidelines"
-weight = 6
+weight = 10
 
 [[menu.main]]
 parent = "Outputs"

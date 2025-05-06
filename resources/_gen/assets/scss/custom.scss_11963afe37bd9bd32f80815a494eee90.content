@@ -8,22 +8,25 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Sans", sans-serif !important;
   font-optical-sizing: auto;
   color: #000000 !important;
-  font-weight: 500 !important;
-  margin-top: 60px !important; }
+  font-weight: 500 !important; }
 
 h1 {
   font-size: 2rem;
   text-align: center;
-  width: 100% !important; }
+  width: 100% !important;
+  margin-top: 60px !important; }
 
 h2 {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  margin-top: 60px !important; }
 
 h3 {
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  margin-top: 30px !important; }
 
 h4 {
-  font-size: 1.1rem; }
+  font-size: 1.1rem;
+  margin-top: 15px !important; }
 
 p {
   font-size: 0.9rem;
@@ -145,5 +148,8 @@ p {
 
 .sub-footer .sub-footer-inner {
   justify-content: center; }
+
+.links-media h1 {
+  text-align: left; }
 
 /*# sourceMappingURL=style.css.map */

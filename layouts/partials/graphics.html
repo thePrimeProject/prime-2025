@@ -1,0 +1,45 @@
+<div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.logos }}
+        <div class="swiper-slide">
+            <a href="{{ .url }}" target="_blank">
+                <img src="{{ .image | relURL }}" alt="{{ .name }}" style="max-height:80px; max-width:100%; object-fit:contain;">
+            </a>
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+</div>
+<div thumbsSlider="" class="swiper mySwiper">
+    <div class="swiper-wrapper">
+        {{ range .Site.Data.logos }}
+        <div class="swiper-slide">
+            <a href="{{ .url }}" target="_blank">
+                <img src="{{ .image | relURL }}" alt="{{ .name }}" style="max-height:80px; max-width:100%; object-fit:contain;">
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        loop: true,
+        spaceBetween: 10,
+        slidesPerView: 4,
+        freeMode: true,
+        watchSlidesProgress: true,
+    });
+    var swiper2 = new Swiper(".mySwiper2", {
+        loop: true,
+        spaceBetween: 10,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+        },
+        thumbs: {
+            swiper: swiper,
+        },
+    });
+</script>
