@@ -6,8 +6,15 @@
     <description>Recent content in Outputs on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 14:13:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 16:29:30 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/outputs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PRIME Policy Briefs</title>
+      <link>//localhost:1313/outputs/policy-briefs/</link>
+      <pubDate>Tue, 06 May 2025 16:29:30 -0500</pubDate>
+      <guid>//localhost:1313/outputs/policy-briefs/</guid>
+      <description> Technical Policy Briefing </description>
+    </item>
     <item>
       <title>Links and Media</title>
       <link>//localhost:1313/outputs/links-and-media/</link>
@@ -41,7 +48,7 @@
       <link>//localhost:1313/outputs/code-of-practice/</link>
       <pubDate>Sun, 13 Apr 2025 18:54:37 -0500</pubDate>
       <guid>//localhost:1313/outputs/code-of-practice/</guid>
-      <description>Code of Practice The Minoritised Ethnic People’s Code ofPractice for Equitable Digital Services (ME-CoP) contains principles and recommendations to guide the development of a digital service. The ME-CoP offers a guide to anchor your decision making about the purpose of digital services, its design, delivery, and use of people’s data, including but not limited to, race and ethnicity information. Through seven principles, it recommend show the design of digital services can helps afeguard against some of the inequities Minoritised Ethnic people experience in access, outcomes, and their experiences of services.</description>
+      <description>Code of Practice The Minoritised Ethnic People’s Code ofPractice for Equitable Digital Services (ME-CoP) contains principles and recommendations to guide the development of a digital service.&#xA;The ME-CoP offers a guide to anchor your decision making about the purpose of digital services, its design, delivery, and use of people’s data, including but not limited to, race and ethnicity information. Through seven principles, it recommend show the design of digital services can helps afeguard against some of the inequities Minoritised Ethnic people experience in access, outcomes, and their experiences of services.</description>
     </item>
     <item>
       <title>Academic Publications</title>

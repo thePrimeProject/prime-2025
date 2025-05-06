@@ -239,3 +239,15 @@ p {
     text-align: left;
   }
 }
+.code-practice{
+  p{
+    font-size: 1.4rem;
+  }
+}
+.content{
+  .code-practice{
+    img{
+      margin-top: unset !important;
+    }
+  }
+}
