@@ -229,6 +229,17 @@
                         
 
                         <li class="">
+                            <a href="/outputs/graphics" class="dropdown-item">
+                                <span>Graphics</span>
+                            </a>
+                        </li>
+                        
+                        
+                        
+                        
+                        
+
+                        <li class="">
                             <a href="/outputs/posters" class="dropdown-item">
                                 <span>Posters</span>
                             </a>
@@ -337,113 +348,180 @@
       
       <h1 class="title">Graphics</h1>
       
-      <div class="content"><p>Hola! This is a test of the graphics page.</p>
+      <div class="content">
 
-<div style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="swiper mySwiper2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper swiper-gallery-1 swigraph" style="--swiper-navigation-color:#fff; --swiper-pagination-color:#fff">
     <div class="swiper-wrapper">
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo1.com" target="_blank">
-                <img src="/images/alies/cu.png" alt="Logo 1" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;1.png" alt="Design 1">
         </div>
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo2.com" target="_blank">
-                <img src="/images/alies/hwu.png" alt="Logo 2" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;2.png" alt="Design 2">
         </div>
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo3.com" target="_blank">
-                <img src="/images/alies/OU_Master_LOGO_BLACK_125mm.jpg" alt="Logo 3" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/ug.png" alt="Logo 4" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/uy.png" alt="Logo 5" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/EPSRClogo.jpg" alt="Logo 6" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;3.png" alt="Design 3">
         </div>
         
     </div>
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next swiper-button-next-gallery-1"></div>
+    <div class="swiper-button-prev swiper-button-prev-gallery-1"></div>
 </div>
-<div thumbsSlider="" class="swiper mySwiper">
+
+
+<div class="swiper swiper-gallery-1-thumbs swigraphmin" thumbsSlider>
     <div class="swiper-wrapper">
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo1.com" target="_blank">
-                <img src="/images/alies/cu.png" alt="Logo 1" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;1.png" alt="Design 1">
         </div>
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo2.com" target="_blank">
-                <img src="/images/alies/hwu.png" alt="Logo 2" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;2.png" alt="Design 2">
         </div>
         
         <div class="swiper-slide">
-            <a href="https://www.ejemplo3.com" target="_blank">
-                <img src="/images/alies/OU_Master_LOGO_BLACK_125mm.jpg" alt="Logo 3" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/ug.png" alt="Logo 4" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/uy.png" alt="Logo 5" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
-        </div>
-        
-        <div class="swiper-slide">
-            <a href="https://www.ejemplo4.com" target="_blank">
-                <img src="/images/alies/EPSRClogo.jpg" alt="Logo 6" style="max-height:80px; max-width:100%; object-fit:contain;">
-            </a>
+            <img src="/images/outputs/graphics/PRIME_GR&#43;3.png" alt="Design 3">
         </div>
         
     </div>
 </div>
 
 <script>
-    var swiper = new Swiper(".mySwiper", {
-        loop: true,
-        spaceBetween: 10,
-        slidesPerView: 4,
+    document.addEventListener("DOMContentLoaded", function () {
+        
+        var thumbs_gallery_1 = new Swiper(".swiper-gallery-1-thumbs", {
+            loop: true,
+            spaceBetween: 10,
+            slidesPerView:  3 ,    
         freeMode: true,
-        watchSlidesProgress: true,
+            watchSlidesProgress: true,
     });
-    var swiper2 = new Swiper(".mySwiper2", {
-        loop: true,
-        spaceBetween: 10,
-        navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
-        },
-        thumbs: {
-            swiper: swiper,
-        },
+
+        new Swiper(".swiper-gallery-1", {
+            loop: true,
+            spaceBetween: 10,
+            navigation: {
+                nextEl: ".swiper-button-next-gallery-1",
+                prevEl: ".swiper-button-prev-gallery-1",
+            },
+            thumbs: {
+                swiper: thumbs_gallery_1,
+    },
+    });
     });
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper swiper-gallery-2 swigraph" style="--swiper-navigation-color:#fff; --swiper-pagination-color:#fff">
+    <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;1.png" alt="Design 1">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;2.png" alt="Design 2">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;3.png" alt="Design 3">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa-4.png" alt="Design 4">
+        </div>
+        
+    </div>
+    <div class="swiper-button-next swiper-button-next-gallery-2"></div>
+    <div class="swiper-button-prev swiper-button-prev-gallery-2"></div>
+</div>
+
+
+<div class="swiper swiper-gallery-2-thumbs swigraphmin" thumbsSlider>
+    <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;1.png" alt="Design 1">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;2.png" alt="Design 2">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa&#43;3.png" alt="Design 3">
+        </div>
+        
+        <div class="swiper-slide">
+            <img src="/images/outputs/graphicsv2/Delivering_innovative_harm-reduction_interventions,_processes_and_technologies_to_transform_online_services_and_create_safer_spa-4.png" alt="Design 4">
+        </div>
+        
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        
+        var thumbs_gallery_2 = new Swiper(".swiper-gallery-2-thumbs", {
+            loop: true,
+            spaceBetween: 10,
+            slidesPerView:  4 ,    
+        freeMode: true,
+            watchSlidesProgress: true,
+    });
+
+        new Swiper(".swiper-gallery-2", {
+            loop: true,
+            spaceBetween: 10,
+            navigation: {
+                nextEl: ".swiper-button-next-gallery-2",
+                prevEl: ".swiper-button-prev-gallery-2",
+            },
+            thumbs: {
+                swiper: thumbs_gallery_2,
+    },
+    });
+    });
+</script>
+
 </div>
     </div>
   </div>
@@ -519,7 +597,8 @@
             breakpoints: {
                 1024: { slidesPerView: 4 },
                 768: { slidesPerView: 3 },
-                500: { slidesPerView: 1 }
+                500: { slidesPerView: 1 },
+                320: { slidesPerView: 2 }
             }
         });
     });

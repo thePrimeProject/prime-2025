@@ -47,6 +47,12 @@ p {
   font-style: normal;
   color: #000000 !important; }
 
+.header {
+  background-color: #f9f9f9; }
+
+.bg-light {
+  background-color: transparent !important; }
+
 .feature-block {
   padding: 3rem;
   background-color: #f9f9f9;
@@ -157,5 +163,28 @@ p {
 
 .content .code-practice img {
   margin-top: unset !important; }
+
+/*** intento carrusel **/
+.swigraph {
+  height: 80%;
+  width: 60%; }
+  @media (max-width: 768px) {
+    .swigraph {
+      width: 80%; } }
+.swigraphmin {
+  height: 120px;
+  box-sizing: border-box;
+  padding: 10px 0; }
+  .swigraphmin .swiper-slide {
+    text-align: center; }
+  .swigraphmin img {
+    display: block;
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    margin: auto; }
+
+.swiper-gallery-2 {
+  margin-top: 90px; }
 
 /*# sourceMappingURL=style.css.map */

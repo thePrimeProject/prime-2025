@@ -102,6 +102,12 @@ weight = 5
 
 [[menu.main]]
 parent = "Outputs"
+name = "Graphics"
+url = "/outputs/graphics"
+weight = 1
+
+[[menu.main]]
+parent = "Outputs"
 name = "Posters"
 url = "/outputs/posters"
 weight = 3

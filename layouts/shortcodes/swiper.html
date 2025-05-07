@@ -1,0 +1,68 @@
+{{/* layouts/shortcodes/swiper.html */}}
+
+{{/* 1) Data key y lista de imágenes */}}
+{{ $dataKey := .Get "data" | default "graphics" }}
+{{ $images  := index .Site.Data $dataKey }}
+{{ if not $images }}
+{{ errorf "shortcode 'swiper' necesita site.Data.%s válido" $dataKey }}
+{{ end }}
+
+{{/* 2) UID para clases CSS y JS */}}
+{{ $count := or (.Page.Scratch.Get "swiperCount") 0 }}
+{{ $count = add $count 1 }}
+{{ .Page.Scratch.Set "swiperCount" $count }}
+{{ $rawUid := printf "gallery-%d" $count }}
+{{ $jsUid  := replaceRE "-" "_" $rawUid }}
+
+{{/* 3) Nuevo parámetro 'thumbs' (número de miniaturas por vista), por defecto 3 */}}
+{{ $thumbsParam := default "3" (.Get "thumbs") }}
+{{ $thumbsCount := int $thumbsParam }}
+
+<!-- Galería principal -->
+<div class="swiper swiper-{{ $rawUid }} swigraph" style="--swiper-navigation-color:#fff; --swiper-pagination-color:#fff">
+    <div class="swiper-wrapper">
+        {{ range $images }}
+        <div class="swiper-slide">
+            <img src="{{ .image | relURL }}" alt="{{ .name }}">
+        </div>
+        {{ end }}
+    </div>
+    <div class="swiper-button-next swiper-button-next-{{ $rawUid }}"></div>
+    <div class="swiper-button-prev swiper-button-prev-{{ $rawUid }}"></div>
+</div>
+
+<!-- Thumbnails -->
+<div class="swiper swiper-{{ $rawUid }}-thumbs swigraphmin" thumbsSlider>
+    <div class="swiper-wrapper">
+        {{ range $images }}
+        <div class="swiper-slide">
+            <img src="{{ .image | relURL }}" alt="{{ .name }}">
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // inicializa thumbs con número dinámico de slidesPerView
+        var thumbs_{{ $jsUid | safeJS }} = new Swiper(".swiper-{{ $rawUid }}-thumbs", {
+            loop: true,
+            spaceBetween: 10,
+            slidesPerView: {{ $thumbsCount }},    // <-- aquí va tu variable
+        freeMode: true,
+            watchSlidesProgress: true,
+    });
+
+        new Swiper(".swiper-{{ $rawUid }}", {
+            loop: true,
+            spaceBetween: 10,
+            navigation: {
+                nextEl: ".swiper-button-next-{{ $rawUid }}",
+                prevEl: ".swiper-button-prev-{{ $rawUid }}",
+            },
+            thumbs: {
+                swiper: thumbs_{{ $jsUid | safeJS }},
+    },
+    });
+    });
+</script>
