@@ -39,7 +39,8 @@ ul, ol {
   font-style: normal;
   color: #000000 !important; }
   ul li, ol li {
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+    font-size: 1.2rem; }
 
 p {
   font-family: "Poppins", sans-serif;
@@ -97,7 +98,7 @@ p {
   .back-image.white .bg-image {
     opacity: 0.9; }
   .back-image.white p {
-    color: #fff; }
+    color: #fff !important; }
   .back-image.black .bg-image {
     opacity: 0.5; }
   .back-image.black p {

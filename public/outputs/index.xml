@@ -6,8 +6,15 @@
     <description>Recent content in Outputs on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 16:29:30 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 07:06:14 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/outputs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>//localhost:1313/outputs/videos/</link>
+      <pubDate>Wed, 07 May 2025 07:06:14 -0500</pubDate>
+      <guid>//localhost:1313/outputs/videos/</guid>
+      <description>Check out the PRIME project’s educational videos which highlight key research findings about the experiences of ethnic minorities. The videos focused on:&#xA;Social media and online harms Online social housing services Online (health) general practice services The videos are available in the following languages: English, Cantonese Gujarati, Hindi, Mandarin, Punjabi, Somali, and Urdu.&#xA;Watch all All&#xD;urdu&#xD;online (health) general practice services&#xD;online social housing services&#xD;mandarin&#xD;social media and online harms&#xD;Urdu, online (health) general practice services • 2/26/25&#xD;PRIME - online (health) general practice services - Urdu&#xD;Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
+    </item>
     <item>
       <title>PRIME Policy Briefs</title>
       <link>//localhost:1313/outputs/policy-briefs/</link>
@@ -56,6 +63,27 @@
       <pubDate>Sun, 13 Apr 2025 18:10:38 -0500</pubDate>
       <guid>//localhost:1313/outputs/academic-publications/</guid>
       <description>Published Papers An Integrated Agent-Based Modelling and Machine Learning Framework for Enhancing the Digital Service Access of Minority Ethnic Communities Mennan Guder and Nazmiye Balta-Ozkan This paper introduces an integrated modelling framework combining Agent-Based Modelling (ABM) and Machine Learning (ML) to enhance digital service access for Minority Ethnic (ME) communities, specifically drawing on the Protecting Minority Ethnic Communities Online (PRIME) project. The framework leverages ML models to derive unbiased decision-making rules, influencing ABM simulations that explore online service perceptions based on individual attributes and environmental factors.</description>
+    </item>
+    <item>
+      <title>PRIME - online (health) general practice services - Urdu</title>
+      <link>//localhost:1313/outputs/videos/health-urdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/outputs/videos/health-urdu/</guid>
+      <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
+    </item>
+    <item>
+      <title>PRIME - online social housing services – Urdu</title>
+      <link>//localhost:1313/outputs/videos/housing-hurdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/outputs/videos/housing-hurdu/</guid>
+      <description>Accessing Social Housing Services Online: Guidance for Ethnic Minorities This video shares key research findings about the experiences of ethnic</description>
+    </item>
+    <item>
+      <title>PRIME – social media and online harms – Mandarin</title>
+      <link>//localhost:1313/outputs/videos/social-mandarin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/outputs/videos/social-mandarin/</guid>
+      <description>Protect Yourself Online: Social Media Safety and Ethnic Minorities This video reveals key research findings about the negative experiences</description>
     </item>
   </channel>
 </rss>

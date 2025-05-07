@@ -7,5 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mandarin</title>
+      <link>//localhost:1313/tags/mandarin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mandarin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online (Health) General Practice Services</title>
+      <link>//localhost:1313/tags/online-health-general-practice-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/online-health-general-practice-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Social Housing Services</title>
+      <link>//localhost:1313/tags/online-social-housing-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/online-social-housing-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media and Online Harms</title>
+      <link>//localhost:1313/tags/social-media-and-online-harms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/social-media-and-online-harms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urdu</title>
+      <link>//localhost:1313/tags/urdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/urdu/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article class="container my-5">
+
+    <h1 class="mb-2">{{ .Title }}</h1>
+
+    {{ with .Params.subtitle }}
+    <h5 class="text-muted mb-4">{{ . }}</h5>
+    {{ end }}
+
+    {{ with .Params.video_embed }}
+    <div class="ratio ratio-16x9 mb-4">
+        <iframe src="{{ . }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    {{ end }}
+
+    {{ with .Params.image }}
+    <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="img-fluid rounded mb-4">
+    {{ end }}
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+</article>
+{{ end }}

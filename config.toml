@@ -132,6 +132,12 @@ weight = 7
 
 [[menu.main]]
 parent = "Outputs"
+name = "Videos"
+url = "/outputs/videos"
+weight = 8
+
+[[menu.main]]
+parent = "Outputs"
 name = "Design guidelines"
 url = "/outputs/desing-guidelines"
 weight = 10
@@ -164,3 +170,6 @@ weight = 1
 name = "Contact"
 url = "/contact/"
 weight = 2
+
+[taxonomies]
+tag = "tags"
