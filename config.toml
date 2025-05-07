@@ -120,6 +120,12 @@ weight = 6
 
 [[menu.main]]
 parent = "Outputs"
+name = "Policy briefs"
+url = "/outputs/policy-briefs"
+weight = 7
+
+[[menu.main]]
+parent = "Outputs"
 name = "Design guidelines"
 url = "/outputs/desing-guidelines"
 weight = 10
