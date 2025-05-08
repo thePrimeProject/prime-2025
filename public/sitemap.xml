@@ -158,6 +158,8 @@
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/hindi/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/mandarin/</loc>
   </url><url>
     <loc>//localhost:1313/tags/online-health-general-practice-services/</loc>
@@ -166,13 +168,41 @@
   </url><url>
     <loc>//localhost:1313/404/</loc>
   </url><url>
+    <loc>//localhost:1313/outputs/videos/health-hindi/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-mandarin/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-punjabi/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-somali/</loc>
+  </url><url>
     <loc>//localhost:1313/outputs/videos/health-urdu/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-hindi/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-mandarin/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-punjabi/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-somali/</loc>
   </url><url>
     <loc>//localhost:1313/outputs/videos/housing-hurdu/</loc>
   </url><url>
+    <loc>//localhost:1313/outputs/videos/social-hindi/</loc>
+  </url><url>
     <loc>//localhost:1313/outputs/videos/social-mandarin/</loc>
   </url><url>
+    <loc>//localhost:1313/outputs/videos/social-punjabi/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/social-somali/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/social-urdu/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/punjabi/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/social-media-and-online-harms/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/somali/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
