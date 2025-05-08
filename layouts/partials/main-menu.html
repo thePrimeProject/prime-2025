@@ -1,37 +1,42 @@
-<div id="main-menu" class="main-menu">
-
-</div>
-
 <nav class="navbar navbar-expand-lg bg-light main-menu" id="main-menu">
     <div class="container-fluid">
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 {{ $currentPage := . }}
-                {{/* 1) Recorre solo los ítems de primer nivel (sin parent) */}}
+
+                {{/* 1) Recorre ítems de primer nivel (sin parent) */}}
                 {{ range where .Site.Menus.main ".Parent" "==" "" }}
                 {{ $item := . }}
-                {{/* determina si está activo */}}
                 {{ $active := or ($currentPage.IsMenuCurrent "main" $item) ($currentPage.HasMenuCurrent "main" $item) }}
                 {{ $active = or $active (eq ($item.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
 
                 <li class="nav-item {{ if $active }}active{{ end }} {{ if $item.HasChildren }}dropdown{{ end }}">
-                    <a href="{{ $item.URL }}" {{ if $item.HasChildren }} class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false" {{ else }} aria-current="page" class="nav-link" {{ end }}>
+                    <a href="{{ $item.URL }}"
+                       {{ if $item.HasChildren }}
+                       class="nav-link dropdown-toggle"
+                       role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                       {{ else }}
+                       class="nav-link" aria-current="page"
+                       {{ end }}
+                       {{ with $item.Params.target }}target="{{ . }}" rel="noopener noreferrer" {{ end }}>
                         {{ $item.Pre }}<span>{{ $item.Name }}</span>
                     </a>
 
-                    {{/* 2) Si tiene hijos, dibuja el sub-menú */}}
+                    {{/* 2) Si tiene hijos, renderiza el submenú */}}
                     {{ if $item.HasChildren }}
                     <ul class="dropdown-menu">
                         {{ range $item.Children }}
                         {{ $child := . }}
-                        {{/* sub-ítem activo? */}}
-                        {{ $childActive := or ($currentPage.IsMenuCurrent "main" $child) ($currentPage.HasMenuCurrent "main" $child) }}
-                        {{ $childActive = or $childActive (eq ($child.URL | relLangURL) ($currentPage.RelPermalink | relLangURL)) }}
+                        {{ $childActive := or ($currentPage.IsMenuCurrent "main" $child) ($currentPage.HasMenuCurrent
+                        "main" $child) }}
+                        {{ $childActive = or $childActive (eq ($child.URL | relLangURL) ($currentPage.RelPermalink |
+                        relLangURL)) }}
 
                         <li class="{{ if $childActive }}active{{ end }}">
-                            <a href="{{ $child.URL }}" class="dropdown-item">
+                            <a href="{{ $child.URL }}"
+                               class="dropdown-item"
+                               {{ with $child.Params.target }}target="{{ . }}" rel="noopener noreferrer" {{ end }}>
                                 {{ $child.Pre }}<span>{{ $child.Name }}</span>
                             </a>
                         </li>
@@ -42,5 +47,6 @@
                 {{ end }}
             </ul>
         </div>
+
     </div>
 </nav>

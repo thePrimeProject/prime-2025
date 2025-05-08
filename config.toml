@@ -147,6 +147,7 @@ parent = "Outputs"
 name = "PRIME Technical Toolkit"
 url = "https://primetoolkit.co.uk/"
 weight = 7
+params.target = "_blank"
 
 
 [[menu.main]]
