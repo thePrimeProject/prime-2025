@@ -158,6 +158,12 @@
     <loc>//localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/cantonese/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/english/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/gujarati/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/hindi/</loc>
   </url><url>
     <loc>//localhost:1313/tags/mandarin/</loc>
@@ -167,6 +173,12 @@
     <loc>//localhost:1313/tags/online-social-housing-services/</loc>
   </url><url>
     <loc>//localhost:1313/404/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-cantonese/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-english/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/health-gujarati/</loc>
   </url><url>
     <loc>//localhost:1313/outputs/videos/health-hindi/</loc>
   </url><url>
@@ -178,6 +190,12 @@
   </url><url>
     <loc>//localhost:1313/outputs/videos/health-urdu/</loc>
   </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-cantonese/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-english/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/housing-gujarati/</loc>
+  </url><url>
     <loc>//localhost:1313/outputs/videos/housing-hindi/</loc>
   </url><url>
     <loc>//localhost:1313/outputs/videos/housing-mandarin/</loc>
@@ -187,6 +205,12 @@
     <loc>//localhost:1313/outputs/videos/housing-somali/</loc>
   </url><url>
     <loc>//localhost:1313/outputs/videos/housing-hurdu/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/social-cantonese/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/social-english/</loc>
+  </url><url>
+    <loc>//localhost:1313/outputs/videos/social-gujarati/</loc>
   </url><url>
     <loc>//localhost:1313/outputs/videos/social-hindi/</loc>
   </url><url>
