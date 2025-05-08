@@ -188,4 +188,7 @@ p {
 .swiper-gallery-2 {
   margin-top: 90px; }
 
+.filter-menu {
+  margin-top: 90px; }
+
 /*# sourceMappingURL=style.css.map */
