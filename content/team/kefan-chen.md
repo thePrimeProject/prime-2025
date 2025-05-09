@@ -3,7 +3,7 @@ title: "Kefan Chen"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/kefan-chen.jpg"
 jobtitle: "Mr"
-Webpage: 'https://www.webpage.com'
+Website: 'https://www.webpage.com'
 GoogleScholar: 'https://www.google.scholar.edu.co/'
 linkedinurl: 'https://www.linkedin.com/'
 draft: false

@@ -9,6 +9,7 @@ orcid: 'https://www.orcid.com/'
 GoogleScholar: 'https://www.google.scholar.edu.co/'
 linkedinurl: 'https://www.linkedin.com/'
 researchgate: 'https://researshgate.com/'
+alumni: true
 draft: false
 weight: 100
 promoted: true

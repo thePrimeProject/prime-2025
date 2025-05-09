@@ -191,4 +191,14 @@ p {
 .filter-menu {
   margin-top: 90px; }
 
+.img-profile {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center; }
+
+.title.alumni {
+  text-align: center !important;
+  margin-bottom: 30px; }
+
 /*# sourceMappingURL=style.css.map */

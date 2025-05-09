@@ -1,5 +1,5 @@
 ---
-title: "Sasha Hasan"
+title: "Sacha Hasan"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/sacha-hasan.jpg"
 jobtitle: "Dr"
@@ -8,8 +8,7 @@ Twitterhandle: 'sasha-hasan'
 orcid: 'https://www.orcid.com/'
 linkedinurl: 'https://www.linkedin.com/'
 academiaedu: 'https://www.academia.edu.com/'
-
-
+alumni: true
 draft: false
 weight: 100
 promoted: true

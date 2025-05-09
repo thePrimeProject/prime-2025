@@ -71,11 +71,11 @@ p {
   color: $black !important;
 }
 
-.header{
+.header {
   background-color: #f9f9f9;
 }
 
-.bg-light{
+.bg-light {
   background-color: transparent !important;
 }
 
@@ -243,19 +243,21 @@ p {
   justify-content: center;
 }
 
-.links-media{
-  h1{
+.links-media {
+  h1 {
     text-align: left;
   }
 }
-.code-practice{
-  p{
+
+.code-practice {
+  p {
     font-size: 1.4rem;
   }
 }
-.content{
-  .code-practice{
-    img{
+
+.content {
+  .code-practice {
+    img {
       margin-top: unset !important;
     }
   }
@@ -274,9 +276,11 @@ p {
   height: 120px;
   box-sizing: border-box;
   padding: 10px 0;
-  .swiper-slide{
+
+  .swiper-slide {
     text-align: center;
   }
+
   img {
     display: block;
     width: auto;
@@ -285,11 +289,25 @@ p {
     margin: auto;
   }
 }
-.swiper-gallery-2{
+
+.swiper-gallery-2 {
   margin-top: 90px;
 }
-.filter-menu{
+
+.filter-menu {
   margin-top: 90px;
+}
+
+.img-profile {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.title.alumni {
+  text-align: center !important;
+  margin-bottom: 30px;
 }
 
 
