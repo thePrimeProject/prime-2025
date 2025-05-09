@@ -13536,6 +13536,9 @@ p {
 .team-summary a {
   color: #333333 !important; }
 
+.team-summary-large {
+  height: 100%; }
+
 .footer-logo {
   text-align: center;
   margin-top: 30px;

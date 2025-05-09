@@ -15,7 +15,7 @@
 <div class="container">
   <div class="row">
     {{ range sort (where .Pages "Params.alumni" "!=" true) ".Params.order" "asc" }}
-    <div class="col-12 col-md-4 mb-2">{{ .Render "summary-large" }}</div>
+    <div class="col-12 col-md-4 mb-5">{{ .Render "summary-large" }}</div>
     {{ end }}
   </div>
   <h2 class="title alumni">Meet our Alumni</h2>

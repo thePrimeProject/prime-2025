@@ -213,6 +213,9 @@ p {
     a {
       color: $gray-darker !important;
     }
+    &-large{
+      height: 100%;
+    }
   }
 }
 
