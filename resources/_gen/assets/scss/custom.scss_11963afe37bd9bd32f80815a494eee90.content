@@ -146,6 +146,10 @@ p {
   margin-top: 30px;
   margin-bottom: 30px; }
 
+.logos .col {
+  text-align: center;
+  padding: 15px; }
+
 #participating-organisations {
   text-align: center;
   font-weight: bold; }
@@ -203,5 +207,10 @@ p {
 .title.alumni {
   text-align: center !important;
   margin-bottom: 30px; }
+
+.page-contact h1 {
+  text-align: left;
+  margin-top: 30px !important;
+  padding-top: unset !important; }
 
 /*# sourceMappingURL=style.css.map */
