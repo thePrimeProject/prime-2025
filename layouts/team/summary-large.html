@@ -1,37 +1,40 @@
-<div class="team team-summary team-summary-large">
-  {{ if .Params.image }}
-  <div class="team-image">
-    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
-  </div>
-  {{ end }}
-  <div class="team-meta">
-    <p class="team-description">{{ .Params.Jobtitle }}</p>
-    <h2 class="team-name">
-      {{ .Title }}
-    </h2>
+<div class="team team-summary-prime container">
+    <div class="row">
+        {{ if .Params.image }}
+        <div class="team-image col-lg-4">
+            <img alt="Photo of {{ .Title }}" src="{{ .Params.image | relURL }}"/>
+        </div>
+        {{ end }}
+        <div class="team-meta col-lg-8">
+            <p class="team-description">{{ .Params.Jobtitle }}</p>
+            <h2 class="team-name">
+                {{ .Title }}
+            </h2>
 
-    {{ if .Params.Linkedinurl }}
-    <a target="_blank" rel="noreferrer" href="{{ .Params.Linkedinurl }}">LinkedIn</a>{{ end }}
-    {{ if .Params.Twitterhandle }}
-    | <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
-    {{ if .Params.orcid }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.orcid }}">Orcid</a> {{ end }}
-    {{ if .Params.academiaedu }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.academiaedu }}">Academia.edu</a> {{ end }}
-    {{ if .Params.researchgate }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.researchgate }}">Research Gate</a> {{ end }}
-    {{ if .Params.GoogleScholar }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.GoogleScholar }}">Google Scholar</a> {{ end }}
-    {{ if .Params.instagram }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.instagram }}">Instagram</a> {{ end }}
-    {{ if .Params.urkifunding }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.urkifunding }}">URKI funding</a> {{ end }}
-    {{ if .Params.website }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.website }}">Website</a>
-    {{ end }}
-    {{ if .Params.SlideShare }}
-    | <a target="_blank" rel="noreferrer" href="{{ .Params.SlideShare }}">SlideShare</a>
-    {{ end }}
-  </div>
-  <div class="team-content"> {{.Content}}</div>
+            {{ if .Params.Linkedinurl }}
+            <a target="_blank" rel="noreferrer" href="{{ .Params.Linkedinurl }}">LinkedIn</a>{{ end }}
+            {{ if .Params.Twitterhandle }}
+            | <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{
+            end }}
+            {{ if .Params.orcid }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.orcid }}">Orcid</a> {{ end }}
+            {{ if .Params.academiaedu }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.academiaedu }}">Academia.edu</a> {{ end }}
+            {{ if .Params.researchgate }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.researchgate }}">Research Gate</a> {{ end }}
+            {{ if .Params.GoogleScholar }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.GoogleScholar }}">Google Scholar</a> {{ end }}
+            {{ if .Params.instagram }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.instagram }}">Instagram</a> {{ end }}
+            {{ if .Params.urkifunding }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.urkifunding }}">URKI funding</a> {{ end }}
+            {{ if .Params.website }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.website }}">Website</a>
+            {{ end }}
+            {{ if .Params.SlideShare }}
+            | <a target="_blank" rel="noreferrer" href="{{ .Params.SlideShare }}">SlideShare</a>
+            {{ end }}
+        </div>
+    </div>
+    <div class="team-content">{{.Content}}</div>
 </div>

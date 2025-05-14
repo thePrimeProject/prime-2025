@@ -132,14 +132,31 @@ p {
     width: 100%;
     font-size: 1rem !important; }
 
-.team-summary h2 {
-  margin-top: unset !important; }
+.team-summary-prime h2 {
+  margin-top: unset !important;
+  display: block !important; }
 
-.team-summary a {
+.team-summary-prime .team-image img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block; }
+
+.team-summary-prime .team-description {
+  margin-bottom: unset; }
+
+.team-summary-prime a {
   color: #333333 !important; }
 
-.team-summary-large {
-  height: 100%; }
+.team-summary-prime-large {
+  background-color: transparent !important;
+  padding: 15px; }
+
+.team-summary-prime .team-content {
+  display: block;
+  flex: unset !important;
+  margin-top: 30px; }
 
 .footer-logo {
   text-align: center;

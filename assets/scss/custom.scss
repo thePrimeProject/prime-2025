@@ -205,16 +205,39 @@ p {
 }
 
 .team {
-  &-summary {
+  &-summary-prime {
     h2 {
       margin-top: unset !important;
+      display: block !important;
+    }
+    .team-image {
+      img {
+        width: 90px;
+        height: 90px;
+        object-fit: cover;
+        border-radius: 50%;
+        display: block;
+      }
+    }
+    .team-description{
+      margin-bottom: unset;
     }
 
     a {
       color: $gray-darker !important;
     }
-    &-large{
-      height: 100%;
+
+    &-large {
+      background-color: transparent !important;
+      padding: 15px;
+
+
+    }
+
+    .team-content {
+      display: block;
+      flex: unset !important;
+      margin-top: 30px;
     }
   }
 }
@@ -224,8 +247,9 @@ p {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-.logos{
-  .col{
+
+.logos {
+  .col {
     text-align: center;
     padding: 15px;
   }
@@ -319,8 +343,8 @@ p {
   margin-bottom: 30px;
 }
 
-.page-contact{
-  h1{
+.page-contact {
+  h1 {
     text-align: left;
     margin-top: 30px !important;
     padding-top: unset !important;
