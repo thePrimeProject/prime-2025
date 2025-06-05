@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://theprimeproject.github.io/prime-2025/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"

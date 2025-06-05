@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PRIME</title>
-    <link>/tags/</link>
+    <link>https://theprimeproject.github.io/prime-2025/tags/</link>
     <description>Recent content in Tags on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theprimeproject.github.io/prime-2025/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cantonese</title>
-      <link>/tags/cantonese/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/cantonese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/cantonese/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/cantonese/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>/tags/english/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/english/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Gujarati</title>
-      <link>/tags/gujarati/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/gujarati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/gujarati/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/gujarati/</guid>
       <description></description>
     </item>
     <item>
       <title>Hindi</title>
-      <link>/tags/hindi/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/hindi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/hindi/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/hindi/</guid>
       <description></description>
     </item>
     <item>
       <title>Mandarin</title>
-      <link>/tags/mandarin/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/mandarin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/mandarin/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/mandarin/</guid>
       <description></description>
     </item>
     <item>
       <title>Online (Health) General Practice Services</title>
-      <link>/tags/online-health-general-practice-services/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/online-health-general-practice-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/online-health-general-practice-services/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/online-health-general-practice-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Online Social Housing Services</title>
-      <link>/tags/online-social-housing-services/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/online-social-housing-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/online-social-housing-services/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/online-social-housing-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Punjabi</title>
-      <link>/tags/punjabi/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/punjabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/punjabi/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/punjabi/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media and Online Harms</title>
-      <link>/tags/social-media-and-online-harms/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/social-media-and-online-harms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/social-media-and-online-harms/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/social-media-and-online-harms/</guid>
       <description></description>
     </item>
     <item>
       <title>Somali</title>
-      <link>/tags/somali/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/somali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/somali/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/somali/</guid>
       <description></description>
     </item>
     <item>
       <title>Urdu</title>
-      <link>/tags/urdu/</link>
+      <link>https://theprimeproject.github.io/prime-2025/tags/urdu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/urdu/</guid>
+      <guid>https://theprimeproject.github.io/prime-2025/tags/urdu/</guid>
       <description></description>
     </item>
   </channel>
