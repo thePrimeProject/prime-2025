@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PRIME</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cantonese</title>
-      <link>//localhost:1313/tags/cantonese/</link>
+      <link>/tags/cantonese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/cantonese/</guid>
+      <guid>/tags/cantonese/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>//localhost:1313/tags/english/</link>
+      <link>/tags/english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/english/</guid>
+      <guid>/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Gujarati</title>
-      <link>//localhost:1313/tags/gujarati/</link>
+      <link>/tags/gujarati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/gujarati/</guid>
+      <guid>/tags/gujarati/</guid>
       <description></description>
     </item>
     <item>
       <title>Hindi</title>
-      <link>//localhost:1313/tags/hindi/</link>
+      <link>/tags/hindi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/hindi/</guid>
+      <guid>/tags/hindi/</guid>
       <description></description>
     </item>
     <item>
       <title>Mandarin</title>
-      <link>//localhost:1313/tags/mandarin/</link>
+      <link>/tags/mandarin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/mandarin/</guid>
+      <guid>/tags/mandarin/</guid>
       <description></description>
     </item>
     <item>
       <title>Online (Health) General Practice Services</title>
-      <link>//localhost:1313/tags/online-health-general-practice-services/</link>
+      <link>/tags/online-health-general-practice-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/online-health-general-practice-services/</guid>
+      <guid>/tags/online-health-general-practice-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Online Social Housing Services</title>
-      <link>//localhost:1313/tags/online-social-housing-services/</link>
+      <link>/tags/online-social-housing-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/online-social-housing-services/</guid>
+      <guid>/tags/online-social-housing-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Punjabi</title>
-      <link>//localhost:1313/tags/punjabi/</link>
+      <link>/tags/punjabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/punjabi/</guid>
+      <guid>/tags/punjabi/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media and Online Harms</title>
-      <link>//localhost:1313/tags/social-media-and-online-harms/</link>
+      <link>/tags/social-media-and-online-harms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/social-media-and-online-harms/</guid>
+      <guid>/tags/social-media-and-online-harms/</guid>
       <description></description>
     </item>
     <item>
       <title>Somali</title>
-      <link>//localhost:1313/tags/somali/</link>
+      <link>/tags/somali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/somali/</guid>
+      <guid>/tags/somali/</guid>
       <description></description>
     </item>
     <item>
       <title>Urdu</title>
-      <link>//localhost:1313/tags/urdu/</link>
+      <link>/tags/urdu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/urdu/</guid>
+      <guid>/tags/urdu/</guid>
       <description></description>
     </item>
   </channel>

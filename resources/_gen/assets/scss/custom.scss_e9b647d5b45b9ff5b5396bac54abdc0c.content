@@ -1,19 +1,58 @@
-.poppins-extralight {
+body {
   font-family: "Poppins", sans-serif;
-  font-weight: 200;
-  font-style: normal; }
-
-.poppins-regular {
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal; }
-
-.noto-sans {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-variation-settings: "wdth" 100; }
+  color: #000000 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans", sans-serif !important;
+  font-optical-sizing: auto;
+  color: #000000 !important;
+  font-weight: 500 !important; }
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  width: 100% !important;
+  margin-top: 60px !important; }
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 60px !important; }
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: 30px !important; }
+
+h4 {
+  font-size: 1.1rem;
+  margin-top: 15px !important; }
+
+p {
+  font-size: 0.9rem;
+  color: #000000 !important; }
+
+ul, ol {
+  margin-left: 2.5rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000 !important; }
+  ul li, ol li {
+    margin-bottom: 20px;
+    font-size: 1.2rem; }
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000 !important; }
+
+.header {
+  background-color: #f9f9f9; }
+
+.bg-light {
+  background-color: transparent !important; }
 
 .feature-block {
   padding: 3rem;
@@ -28,9 +67,13 @@
   .feature-block p {
     color: #555; }
 
-.btn-primary {
-  background-color: #5D2B39 !important;
-  border-color: #5D2B39; }
+.btn {
+  border-color: #000000 !important; }
+  .btn-primary {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    border-radius: unset !important;
+    padding: 15px 30px !important; }
 
 .back-image {
   position: relative; }
@@ -46,10 +89,16 @@
     font-size: 42px;
     max-width: 70%;
     line-height: 48px; }
+    @media (max-width: 768px) {
+      .back-image p {
+        top: 30px;
+        font-size: 16px;
+        line-height: 18px;
+        color: #000000 !important; } }
   .back-image.white .bg-image {
     opacity: 0.9; }
   .back-image.white p {
-    color: #fff; }
+    color: #fff !important; }
   .back-image.black .bg-image {
     opacity: 0.5; }
   .back-image.black p {
@@ -75,5 +124,111 @@
     color: #007bff;
     text-decoration: none; }
 
-.intro p {
-  width: 100%; }
+.intro {
+  padding-top: 15px !important; }
+  .intro h2 {
+    font-size: 1.4rem; }
+  .intro p {
+    width: 100%;
+    font-size: 1rem !important; }
+
+.team-summary-prime h2 {
+  margin-top: unset !important;
+  display: block !important; }
+
+.team-summary-prime .team-image img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block; }
+
+.team-summary-prime .team-description {
+  margin-bottom: unset; }
+
+.team-summary-prime a {
+  color: #333333 !important; }
+
+.team-summary-prime-large {
+  background-color: transparent !important;
+  padding: 15px; }
+
+.team-summary-prime .team-content {
+  display: block;
+  flex: unset !important;
+  margin-top: 30px; }
+
+.footer-logo {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.logos .col {
+  text-align: center;
+  padding: 15px; }
+
+#participating-organisations {
+  text-align: center;
+  font-weight: bold; }
+
+.organisations h3 {
+  text-align: center; }
+
+.news .new-card {
+  margin-top: 60px; }
+
+.sub-footer .sub-footer-inner {
+  justify-content: center; }
+
+.links-media h1 {
+  text-align: left; }
+
+.code-practice p {
+  font-size: 1.4rem; }
+
+.content .code-practice img {
+  margin-top: unset !important; }
+
+/*** intento carrusel **/
+.swigraph {
+  height: 80%;
+  width: 60%; }
+  @media (max-width: 768px) {
+    .swigraph {
+      width: 80%; } }
+.swigraphmin {
+  height: 120px;
+  box-sizing: border-box;
+  padding: 10px 0; }
+  .swigraphmin .swiper-slide {
+    text-align: center; }
+  .swigraphmin img {
+    display: block;
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    margin: auto; }
+
+.swiper-gallery-2 {
+  margin-top: 90px; }
+
+.filter-menu {
+  margin-top: 90px; }
+
+.img-profile {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center; }
+
+.title.alumni {
+  text-align: center !important;
+  margin-bottom: 30px; }
+
+.page-contact h1 {
+  text-align: left;
+  margin-top: 30px !important;
+  padding-top: unset !important; }
+
+.page .wrapper {
+  padding-bottom: 50px; }
