@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Partners on PRIME</title>
-    <link>https://theprimeproject.github.io/prime-2025/partners/</link>
+    <link>https://www.primecommunities.online/partners/</link>
     <description>Recent content in Partners on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2025 06:12:37 -0500</lastBuildDate>
-    <atom:link href="https://theprimeproject.github.io/prime-2025/partners/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.primecommunities.online/partners/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Community Partners</title>
-      <link>https://theprimeproject.github.io/prime-2025/partners/community-partners/</link>
+      <link>https://www.primecommunities.online/partners/community-partners/</link>
       <pubDate>Wed, 23 Apr 2025 06:12:37 -0500</pubDate>
-      <guid>https://theprimeproject.github.io/prime-2025/partners/community-partners/</guid>
+      <guid>https://www.primecommunities.online/partners/community-partners/</guid>
       <description>The PRIME project is guided by a Community-Based Participatory Research framework, underpinned by the principles of equity, empowerment, agency, inclusion and knowledge-production. As such, PRIME is working closely with a diversity of community-based organisations that work with minoritised ethnic populations throughout the UK. We have four key community organisation partners who have been involved in the PRIME project since its inception:&#xA;BEAP Community Partnership (BEAP): BEAP provides services directly and through its partner organisations through which it aims to tackle entrenched deprivation and disadvantage in the Bradford area, particularly among the Bangladeshi community, supporting deprived communities to formulate and put into practice their own agendas for positive social change.</description>
     </item>
     <item>
       <title>Advisory Board</title>
-      <link>https://theprimeproject.github.io/prime-2025/partners/advisory-board/</link>
+      <link>https://www.primecommunities.online/partners/advisory-board/</link>
       <pubDate>Tue, 22 Apr 2025 23:20:54 -0500</pubDate>
-      <guid>https://theprimeproject.github.io/prime-2025/partners/advisory-board/</guid>
+      <guid>https://www.primecommunities.online/partners/advisory-board/</guid>
       <description>Our Advisory Group ensures that our work is at the leading edge of research, policy and action. It plays a critical role in ensuring research excellence and relevance, identifying emerging challenges and opportunities, and advising on ways in which the PRIME project can translate knowledge into action. Drawn from across sectors, our Advisory Board puts people with lived experience at the heart of the project and includes representatives of minoritised ethnic community organisations, high-level policy makers, regulators, and academics.</description>
     </item>
   </channel>
