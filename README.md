@@ -64,6 +64,7 @@ Key content sections:
 
 ```bash
 git clone https://github.com/thePrimeProject/prime-2025.git
+git submodule update --init --recursive
 cd prime-2025
 hugo server
 ```

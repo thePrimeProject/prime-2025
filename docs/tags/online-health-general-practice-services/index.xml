@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online (Health) General Practice Services on PRIME</title>
-    <link>https://www.primecommunities.online/tags/online-health-general-practice-services/</link>
+    <link>http://localhost:1313/tags/online-health-general-practice-services/</link>
     <description>Recent content in Online (Health) General Practice Services on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.primecommunities.online/tags/online-health-general-practice-services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/online-health-general-practice-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRIME - online (health) general practice services - Cantonese</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-cantonese/</link>
+      <link>http://localhost:1313/outputs/videos/health-cantonese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-cantonese/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-cantonese/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - English</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-english/</link>
+      <link>http://localhost:1313/outputs/videos/health-english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-english/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-english/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - Gujarati</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-gujarati/</link>
+      <link>http://localhost:1313/outputs/videos/health-gujarati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-gujarati/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-gujarati/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - Hindi</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-hindi/</link>
+      <link>http://localhost:1313/outputs/videos/health-hindi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-hindi/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-hindi/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - Mandarin</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-mandarin/</link>
+      <link>http://localhost:1313/outputs/videos/health-mandarin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-mandarin/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-mandarin/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - punjabi</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-punjabi/</link>
+      <link>http://localhost:1313/outputs/videos/health-punjabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-punjabi/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-punjabi/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - Somali</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-somali/</link>
+      <link>http://localhost:1313/outputs/videos/health-somali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-somali/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-somali/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online (health) general practice services - Urdu</title>
-      <link>https://www.primecommunities.online/outputs/videos/health-urdu/</link>
+      <link>http://localhost:1313/outputs/videos/health-urdu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.primecommunities.online/outputs/videos/health-urdu/</guid>
+      <guid>http://localhost:1313/outputs/videos/health-urdu/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
   </channel>

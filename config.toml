@@ -19,7 +19,7 @@ unsafe = true
 # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
 google_analytics_id = ""
 google_tag_manager_id = ""
-favicon = "favicon-32x32.svg"
+favicon = "favicon-32x32.png"
 
 [params.homepage]
 sticky_header = false
@@ -51,7 +51,7 @@ grey = "#5C5A5A"
 [params.seo]
 meta_twitter_site = "@protectingME"
 meta_twitter_creator = "@protectingME"
-meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+meta_og_image = "https://www.primecommunities.online/images/prime-social.jpg"
 
 [params.services]
 summary_truncate = 120 # How many characters to include in the summary of the services before truncating
