@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PRIME</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.primecommunities.online/tags/</link>
     <description>Recent content in Tags on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.primecommunities.online/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cantonese</title>
-      <link>http://localhost:1313/tags/cantonese/</link>
+      <link>https://www.primecommunities.online/tags/cantonese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cantonese/</guid>
+      <guid>https://www.primecommunities.online/tags/cantonese/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>http://localhost:1313/tags/english/</link>
+      <link>https://www.primecommunities.online/tags/english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/english/</guid>
+      <guid>https://www.primecommunities.online/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>Gujarati</title>
-      <link>http://localhost:1313/tags/gujarati/</link>
+      <link>https://www.primecommunities.online/tags/gujarati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gujarati/</guid>
+      <guid>https://www.primecommunities.online/tags/gujarati/</guid>
       <description></description>
     </item>
     <item>
       <title>Hindi</title>
-      <link>http://localhost:1313/tags/hindi/</link>
+      <link>https://www.primecommunities.online/tags/hindi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hindi/</guid>
+      <guid>https://www.primecommunities.online/tags/hindi/</guid>
       <description></description>
     </item>
     <item>
       <title>Mandarin</title>
-      <link>http://localhost:1313/tags/mandarin/</link>
+      <link>https://www.primecommunities.online/tags/mandarin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mandarin/</guid>
+      <guid>https://www.primecommunities.online/tags/mandarin/</guid>
       <description></description>
     </item>
     <item>
       <title>Online (Health) General Practice Services</title>
-      <link>http://localhost:1313/tags/online-health-general-practice-services/</link>
+      <link>https://www.primecommunities.online/tags/online-health-general-practice-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/online-health-general-practice-services/</guid>
+      <guid>https://www.primecommunities.online/tags/online-health-general-practice-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Online Social Housing Services</title>
-      <link>http://localhost:1313/tags/online-social-housing-services/</link>
+      <link>https://www.primecommunities.online/tags/online-social-housing-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/online-social-housing-services/</guid>
+      <guid>https://www.primecommunities.online/tags/online-social-housing-services/</guid>
       <description></description>
     </item>
     <item>
       <title>Punjabi</title>
-      <link>http://localhost:1313/tags/punjabi/</link>
+      <link>https://www.primecommunities.online/tags/punjabi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/punjabi/</guid>
+      <guid>https://www.primecommunities.online/tags/punjabi/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media and Online Harms</title>
-      <link>http://localhost:1313/tags/social-media-and-online-harms/</link>
+      <link>https://www.primecommunities.online/tags/social-media-and-online-harms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-media-and-online-harms/</guid>
+      <guid>https://www.primecommunities.online/tags/social-media-and-online-harms/</guid>
       <description></description>
     </item>
     <item>
       <title>Somali</title>
-      <link>http://localhost:1313/tags/somali/</link>
+      <link>https://www.primecommunities.online/tags/somali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/somali/</guid>
+      <guid>https://www.primecommunities.online/tags/somali/</guid>
       <description></description>
     </item>
     <item>
       <title>Urdu</title>
-      <link>http://localhost:1313/tags/urdu/</link>
+      <link>https://www.primecommunities.online/tags/urdu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/urdu/</guid>
+      <guid>https://www.primecommunities.online/tags/urdu/</guid>
       <description></description>
     </item>
   </channel>

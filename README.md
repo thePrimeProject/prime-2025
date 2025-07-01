@@ -73,6 +73,32 @@ Visit `http://localhost:1313` to preview the site locally.
 
 ---
 
+## 📎 Adding Documents to the Site
+
+To host downloadable documents such as PDFs, DOCXs, or other file types within the site:
+
+1. Place the files in the `static/` directory. For example:
+
+```
+static/docs/prime-report.pdf
+```
+
+2. Link to them in your content or templates using a relative path:
+
+- In Markdown:
+
+  ```md
+  [Download PRIME Report (PDF)](/docs/prime-report.pdf)
+  ```
+
+- In HTML:
+
+  ```html
+  <a href="/docs/prime-report.pdf" target="_blank">Download PRIME Report (PDF)</a>
+  ```
+
+> All files placed inside `static/` will be copied as-is to the final site (`public/` or `docs/`) and made publicly accessible.
+
 ## 🛎️ Deployment (GitHub Pages)
 
 This site is deployed via [GitHub Pages](https://pages.github.com/). To deploy manually:

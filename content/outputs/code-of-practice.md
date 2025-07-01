@@ -12,7 +12,7 @@ hideTitle = true
 The ME-CoP offers a guide to anchor your **decision making about the purpose of digital services, its design, delivery, and use of people’s data**, including but not limited to, race and ethnicity information. Through seven principles, it recommend show the design of digital services can helps afeguard against some of the inequities Minoritised Ethnic people experience in access, outcomes, and their experiences of services.[Read more here](https://www.primecommunities.online/s/PRIME-Code-of-Practice_DIGITAL.pdf)
 {{% /col %}}
 {{% col size="4" %}}
-<a href="https://static1.squarespace.com/static/6356d6cd6b4b5e12e4efca82/t/67644637358fdb1b6bba69db/1734624826585/PRIME+Code+of+Practice_DIGITAL.pdf" target="_blank">
+<a href="/docs/PRIME+Code+of+Practice_DIGITAL.pdf" target="_blank">
 {{< img
 src="/images/outputs/PRIME+Code+of+Practice_FRONT+PAGE.jpg"
 alt="People talking"

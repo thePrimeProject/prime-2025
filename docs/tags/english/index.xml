@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on PRIME</title>
-    <link>http://localhost:1313/tags/english/</link>
+    <link>https://www.primecommunities.online/tags/english/</link>
     <description>Recent content in English on PRIME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.primecommunities.online/tags/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRIME - online (health) general practice services - English</title>
-      <link>http://localhost:1313/outputs/videos/health-english/</link>
+      <link>https://www.primecommunities.online/outputs/videos/health-english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outputs/videos/health-english/</guid>
+      <guid>https://www.primecommunities.online/outputs/videos/health-english/</guid>
       <description>Accessing Online GP Services: Guidance for Ethnic Minorities This educational video highlights key research findings about the</description>
     </item>
     <item>
       <title>PRIME - online social housing services – English</title>
-      <link>http://localhost:1313/outputs/videos/housing-english/</link>
+      <link>https://www.primecommunities.online/outputs/videos/housing-english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outputs/videos/housing-english/</guid>
+      <guid>https://www.primecommunities.online/outputs/videos/housing-english/</guid>
       <description>Accessing Social Housing Services Online: Guidance for Ethnic Minorities This video shares key research findings about the experiences of ethnic</description>
     </item>
     <item>
       <title>PRIME – social media and online harms – English</title>
-      <link>http://localhost:1313/outputs/videos/social-english/</link>
+      <link>https://www.primecommunities.online/outputs/videos/social-english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outputs/videos/social-english/</guid>
+      <guid>https://www.primecommunities.online/outputs/videos/social-english/</guid>
       <description>Protect Yourself Online: Social Media Safety and Ethnic Minorities This video reveals key research findings about the negative experiences</description>
     </item>
   </channel>

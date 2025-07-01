@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/jonurace/projects/prime-2025",
+	"sourceRoot": "/home/jonurace/projects/prime",
 	"sources": [
 		"assets/scss/custom.scss"
 	],
