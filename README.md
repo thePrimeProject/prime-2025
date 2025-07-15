@@ -1,8 +1,8 @@
 # PRIME 2025
 
-> Participatory Research into Inclusion, Migration and Equity (PRIME)
+> Protecting minority ethnic communities online (PRIME)
 
-This is the source code for the official website of the PRIME 2025 research project. PRIME explores how to foster more inclusive and equitable societies by focusing on the lived experiences of migrant and minoritized communities.
+This is the source code for the official website of the PRIME 2025 research project. 
 
 Built using [Hugo](https://gohugo.io/), a fast and modern static site generator.
 
