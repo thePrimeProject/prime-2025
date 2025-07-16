@@ -2,7 +2,7 @@
 title: "Wei Pang"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/wei-pang.jpg"
-jobtitle: "Dr"
+jobtitle: "Professor"
 website: 'https://www.website.com/'
 Twitterhandle: 'wei-pang'
 GoogleScholar: 'https://www.google.scholar.edu.co/'
