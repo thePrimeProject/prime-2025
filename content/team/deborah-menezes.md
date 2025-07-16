@@ -2,7 +2,7 @@
 title: "Deborah Menezes"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/deborah-menezes.jpg"
-jobtitle: "Research Fellow"
+jobtitle: "Dr"
 draft: false
 weight: 100
 promoted: true
