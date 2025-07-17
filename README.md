@@ -101,19 +101,7 @@ static/docs/prime-report.pdf
 
 ## 🛎️ Deployment (GitHub Pages)
 
-This site is deployed via [GitHub Pages](https://pages.github.com/). To deploy manually:
-
-```bash
-hugo --minify
-cd public
-git init
-git remote add origin https://github.com/thePrimeProject/prime-2025.git
-git add .
-git commit -m "Deploy site"
-git push -f origin gh-pages
-```
-
-Or use GitHub Actions with `peaceiris/actions-gh-pages`.
+This site is deployed via [GitHub Pages](https://pages.github.com/).
 
 ---
 
