@@ -99,10 +99,19 @@ static/docs/prime-report.pdf
 
 > All files placed inside `static/` will be copied as-is to the final site (`public/` or `docs/`) and made publicly accessible.
 
-## 🛎️ Deployment (GitHub Pages)
+## 🚀 Automatic Deployment to GitHub Pages
 
-This site is deployed via [GitHub Pages](https://pages.github.com/).
+This project uses **GitHub Actions** to automatically build and deploy the Hugo site to **GitHub Pages** every time changes are pushed to the `main` branch.
 
+### 📁 Deployment Structure
+
+- The Hugo site source files are located in the `main` branch.
+- The built site is automatically deployed to the `gh-pages` branch.
+- The live site is available at: [https://www.primecommunities.online](https://www.primecommunities.online)
+
+### ⚙️ GitHub Action Workflow
+
+The deployment is handled via a workflow file: `.github/workflows/gh-pages.yml`
 ---
 
 ## 📄 License
