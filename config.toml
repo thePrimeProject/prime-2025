@@ -4,8 +4,6 @@ theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "PRIME"
 
-publishDir = "docs"
-
 [module]
 [module.hugoVersion]
 extended = true

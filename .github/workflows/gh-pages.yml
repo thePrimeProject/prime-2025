@@ -5,6 +5,9 @@ on:
     branches:
       - main  # o la rama principal que uses
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
