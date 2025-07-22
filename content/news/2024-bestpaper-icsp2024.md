@@ -15,7 +15,7 @@ Prof Wei Pang, one of the Co-I's of the project has won the *Best Paper Presenta
 {{% col size="4" %}}
 {{< img
 src="/images/news/2024icosp.jpeg"
-alt="Excellent Presentation Award at the 5th International Conference on Artificial Intelligence, Big Data and Algorithms"
+alt="'Best Paper Presentation Award at 10th International Conference on Signal Processing 2024 "
 class="img-fluid rounded"
 >}}
 {{% /col %}}

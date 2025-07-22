@@ -17,7 +17,7 @@ Prof Wei Pang won the excellent oral presentation award for our PRIME work on â€
 {{% /col %}}
 {{% col size="4" %}}
 {{< img
-src="/images/news/2025caibida.jpeg"
+src="/images/news/2025caibda.jpeg"
 alt="Excellent Presentation Award at the 5th International Conference on Artificial Intelligence, Big Data and Algorithms"
 class="img-fluid rounded"
 >}}
