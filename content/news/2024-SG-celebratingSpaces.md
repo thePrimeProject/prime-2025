@@ -1,6 +1,6 @@
 +++
-title = “Presenting PRIME at Celebrating Spaces event, University of York”
-date = 2024-06-290T10:00:00-05:00
+title = "Presenting PRIME at Celebrating Spaces event, University of York"
+date = 2024-06-29T10:00:00-05:00
 draft = false
 +++
 Dr Sebati Ghosh | June 2024
