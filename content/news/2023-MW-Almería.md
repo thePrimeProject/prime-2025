@@ -1,4 +1,5 @@
-title = “Invited talk at University of Almería Summer School”
++++
+title = "Invited talk at University of Almería Summer School"
 date = 2023-07-05T10:00:00-05:00
 draft = false
 +++

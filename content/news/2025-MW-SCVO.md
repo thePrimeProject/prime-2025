@@ -1,5 +1,5 @@
 +++
-title = “Invited panel speaker at SCVO’s The Gathering”
+title = "Invited panel speaker at SCVO’s The Gathering"
 date = 2025-02-21T10:00:00-05:00
 draft = false
 +++
@@ -11,4 +11,4 @@ Held in Scotland, this regional event attracted over 200 attendees, including pr
 
 See more about the event here: https://scvo.scot/the-gathering/events?utm_source=scvo&utm_medium=website&utm_campaign=search
 
-For the video recording of the panel see here https://www.youtube.com/watch?v=QY-GjhBnylQ 
+For the video recording of the panel see here https://www.youtube.com/watch?v=QY-GjhBnylQ

@@ -1,5 +1,5 @@
 +++
-title = “Workshops on findings of housing research in England and Scotland ”
+title = "Workshops on findings of housing research in England and Scotland"
 date = 2023-11-15T10:00:00-05:00
 draft = false
 +++

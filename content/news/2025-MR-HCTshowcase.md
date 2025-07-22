@@ -1,5 +1,5 @@
 +++
-title = “PRIME demo at Heriot-Watt Health and Care Technologies Showcase”
+title = "PRIME demo at Heriot-Watt Health and Care Technologies Showcase"
 date = 2025-06-05T10:00:00-05:00
 draft = false
 +++
