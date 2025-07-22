@@ -5,6 +5,19 @@ draft = false
 +++
 Prof Wei Pang | 21 December 2024
 
+{{% row class="text-align design-guideline" %}}
+{{% col size="8" %}}
+
 Prof Wei Pang, one of the Co-I's of the project has won the *Best Paper Presentation Award* for his presentation titled “Quantifying Discrepancies in Online User Experiences and Modelling Geodemographic Data with Graph Neural Networks: Some Results from the PRIME Project”. This was presented at the 10th International Conference on Signal Processing, Sanya, China, Dec 2024. The authors of this work are Yingfang Yuan, Kefan Chen, Andy Edmondson, Mehdi Rizvi, Lynne Baillie, and Wei Pang
 
+
+{{% /col %}}
+{{% col size="4" %}}
+{{< img
+src="/images/news/2024icosp.jpeg"
+alt="Excellent Presentation Award at the 5th International Conference on Artificial Intelligence, Big Data and Algorithms"
+class="img-fluid rounded"
+>}}
+{{% /col %}}
+{{% /row %}}
 
