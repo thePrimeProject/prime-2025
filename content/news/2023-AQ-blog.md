@@ -1,5 +1,5 @@
 +++
-title = 'Invited Talk at Ofcom Internal Seminar Series'
+title = 'New blog post by Dr Aunam Quyoum  about how data systems with existing patterns of social and racial inequality can reproduce discriminatory outcomes'
 date = 2022-09-03T19:29:15-05:00
 draft = false
 +++
