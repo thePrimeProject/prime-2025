@@ -3,7 +3,7 @@ title = 'PRIME Multi-disciplinary Presentations at REPHRAIN’s ‘All Hands Mee
 date = 2024-07-24T19:17:19-05:00
 draft = false
 +++
-Dr. Sara Bailey | 18 July 2024
+Dr Sara Bailey | 18 July 2024
 
 Now that the hard work of data collection and data analysis is drawing to a close, the project team was delighted to have the opportunity to bring together researchers from both the social and computer sciences to provide a cross-disciplinary overview of our key findings to partners and stakeholders at the May 2024 ‘All Hands Meeting’ which was convened by REPHRAIN.
 

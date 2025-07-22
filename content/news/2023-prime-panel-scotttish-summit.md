@@ -3,7 +3,7 @@ title = 'PRIME Panel at the Scottish AI Summit'
 date = 2023-04-30T19:29:15-05:00
 draft = false
 +++
-April 2023
+Prof Gina Netto, Prof  Lynne Baillie, Dr Aunam Quyoum | April 2023
 
 PRIME PI Professor Gina Netto (Heriot Watt University) chaired a panel which combined inputs from research team members Dr. Aunam Quyoum (University of Glasgow), Professor Lynne Baillie (Heriot Watt University) and community organisation partners Colin Lee (Chief Executive, CEMVO Scotland) and Charles Kwaku-Odoi (Chief Officer, Caribbean & African Health Network (CAHN)) at the Scottish AI Summit. The Summit, held in Glasgow at the University of Strathclyde, brought together key notes and inputs from experts in Scotland’s AI community to facilitate conversations with diverse stakeholders.
 

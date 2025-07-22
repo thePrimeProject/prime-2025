@@ -3,7 +3,7 @@ title = "Final report of Shelter's project on Black people's access to social ho
 date = 2025-07-20T19:29:15-05:00
 draft = false
 +++
-Dr Mehdi Rizvi and Dr Deborah Menezes | April 2024
+Dr Deborah Menezes and Dr Mehdi Rizvi | April 2024
 
 Shelter has published a new report called 'My colour speaks before me'. This peer-led research shows how racism and discrimination affect Black and Black Mixed heritage people’s access to social homes in England. PRIME team members Dr Mehdi Rizvi and Dr Deborah Menezes were part of this effort as members of the stakeholder advisory group for this project. 
 
