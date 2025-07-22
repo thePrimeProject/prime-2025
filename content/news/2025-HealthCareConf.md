@@ -9,11 +9,13 @@ Dr Mehdi Rizvi, Eunice Anteh and Vijaya B Jagadeesan | March 2025
 {{% col size="8" %}}
 
 
-PRIME team members participated in the Health and Care Innovation Conference for Early Career Researchers, at Heriot-Watt University, Edinburgh, on March 26, 2025. The conference was organized by the UKRI Health and Care Research Network and aimed to showcase innovative research in health and care by early career researchers.
+PRIME team members Dr Mehdi Rizvi, Eunice Anteh and Vijaya B Jagadeesan participated in the Health and Care Innovation Conference for Early Career Researchers, at Heriot-Watt University, Edinburgh, on March 26, 2025. Dr Rizvi and Mr Jagadeesan presented their poster on the PRIME Technical Toolkit, focusing on prototypes develped under the PRIME project focusing on health and minority ethnic communities. 
 
-Dr Mehdi Rizvi and Vijaya B Jagadeesan presented their posters on the PRIME project, focusing on prototypes develped under the PRIME project focsuing on health and minority ethnic communities. 
+Eunice Anteh presented her poster on her PhD research liked with the PRIME project, focusing on the issues of digital mental health and refugee women. Her PhD is supervised by Prof Gina Netto and Dr Sacha Hasan. The title of her poster was "Exploring the Experiences Of Refugee Women of African Descent In Navigating Digital Mental Health Services".
 
-Eunice Anteh presented her poster on her PhD project, which is part of the PRIME project, focusing on the issues of digital mental health and refugee women. The title of her poster was "Exploring the Experiences Of Refugee Women of African Descent In Navigating Digital Mental Health Services". Her PhD is supervised by Prof Gina Netto and Dr Sacha Hasan.
+More information about the conference can be found here https://www.hw.ac.uk/news/blog/2025/heriot-watts-inaugural-health-and-care-innovation-conference-for-early-career-researchers
+
+{{< img
 
 {{% /col %}}
 {{% col size="4" %}}
