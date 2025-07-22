@@ -1,5 +1,5 @@
 +++
-title = “Presentation at REPHRAIN Showcase by PhD researcher Eunice Anteh”
+title = "Presentation at REPHRAIN Showcase by PhD researcher Eunice Anteh"
 date = 2024-06-10T10:00:00-05:00
 draft = false
 +++

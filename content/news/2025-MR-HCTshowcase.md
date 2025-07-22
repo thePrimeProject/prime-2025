@@ -11,4 +11,4 @@ Dr Rizvi presented a technical demo titled “Supporting Minoritised Ethnic Comm
 
 The event featured keynote speeches, including opening remarks from the UK’s Chief Medical Officer, Professor Sir Chris Whitty, as well as technology exhibitions and networking with healthcare leaders, policymakers, patients, and the public.
 
-
+For me info about the event, visit https://www.hw.ac.uk/news/2025/heriot-watt-showcases-its-global-research-institute-to-transform-health-and-care
