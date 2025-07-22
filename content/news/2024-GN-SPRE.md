@@ -1,5 +1,5 @@
 +++
-title = "Invited Talk at Scottish Policy Research Exchange (SPRE) seminar series”
+title = "Invited Talk at Scottish Policy Research Exchange seminar series”
 date = 2024-02-15T10:00:00-05:00
 draft = false
 +++
