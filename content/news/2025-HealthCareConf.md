@@ -1,5 +1,5 @@
 +++
-title = “Posters Presented at Health and Care Innovation Conference for Early Career Researchers”
+title = "Posters Presented at Health and Care Innovation Conference for Early Career Researchers"
 date = 2025-03-26T09:00:00-05:00
 draft = false
 +++
