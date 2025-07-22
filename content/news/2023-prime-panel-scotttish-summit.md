@@ -11,4 +11,8 @@ Following an introduction to the main goals of the PRIME project, its multi-disc
 
 A short polling activity with members of the audience indicated that while a high proportion of attendees were collecting ethnicity data, a much smaller proportion were testing services with individuals from minoritised ethnic communities, and an even smaller proportion were designing their services in consultation with these individuals, suggesting that greater awareness of the importance of testing and designing services in consultation with these users is needed. Among the areas which were further discussed were the value of an intersectional approach in engaging with service users, the scope for AI to empower individuals from these communities and the need for greater understanding of  the promotion of ethnic diversity of the workforce at various levels in the field of AI.
 
-A video of the session can be found here: https://www.scottishaisummit.com/panel-protecting-minority-ethnic-communities-online-prime-ai-and-racial-justice-plenary  
+Further details of the panel can be found here: https://www.scottishaisummit.com/panel-protecting-minority-ethnic-communities-online-prime-ai-and-racial-justice-plenary  
+
+For a video recording of the panel discussion, please see below:
+{{< youtube azfaR7zaCio >}}
+

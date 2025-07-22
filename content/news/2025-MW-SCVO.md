@@ -26,5 +26,6 @@ class="img-fluid rounded"
 {{% /col %}}
 {{% /row %}}
 
+For full video of the panel discussion, see below:
 {{< youtube QY-GjhBnylQ >}}
 
