@@ -15,8 +15,6 @@ Held in Scotland, this regional event attracted over 200 attendees, including pr
 
 See more about the event here: https://scvo.scot/the-gathering/events?utm_source=scvo&utm_medium=website&utm_campaign=search
 
-For the video recording of the panel see here https://www.youtube.com/watch?v=QY-GjhBnylQ
-
 
 {{% /col %}}
 {{% col size="4" %}}
@@ -27,4 +25,6 @@ class="img-fluid rounded"
 >}}
 {{% /col %}}
 {{% /row %}}
+
+{{< youtube QY-GjhBnylQ >}}
 
