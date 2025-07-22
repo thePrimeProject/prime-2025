@@ -3,6 +3,8 @@ title = 'PRIME Presents at the Digital Inclusion Policy and Research Conference 
 date = 2023-09-30T19:29:15-05:00
 draft = false
 +++
+Dr Sara Bailey | September 2023  
+
 In September 2023, PRIME project team members Dr Sara Bailey, Professor Agnes Kukulska-Hulme and Dr Elizabeth FitzGerald presented some of the PRIME project’s key findings at the University of Liverpool-hosted Digital Inclusion Policy and Research Conference (DIPRC 2023). The presentation took a deep dive into the experiences of older Asian and Asian British-identifying adults of using digital healthcare, housing and energy services. According to the Office for National Statistics (ONS), Asian and Asian-British individuals over the age of 55 are significantly less likely to use the internet than White individuals in the same age category. This particular demographic group is, therefore, at risk of being disproportionately negatively affected by the digitalisation of essential services.  
 
 The presentation focused in on the experiences of 20 individuals aged 55-87 who identify as being of Indian, Bangladeshi, Pakistani or Chinese heritage, and three key barriers to using digital services were identified: digital poverty (a lack of or intermittent access to internet connectivity and an internet-connected device such as a smartphone or a laptop); inadequate digital literacy; and inadequate language support such as translation functions on digital service platforms.  
