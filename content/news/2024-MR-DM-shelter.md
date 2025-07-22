@@ -1,5 +1,5 @@
 +++
-title = 'Appointment in "Racism and Housing Research Advisory group” Stakheolder Advisory group, Shelter'
+title = 'Appointment to "Racism and Housing Research Advisory group” Stakheolder Advisory group, Shelter'
 date = 2024-04-30T19:29:15-05:00
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Appointment in "Consumer Protection & Accessibility” working group, Ofgem '
+title = 'Appointment to the "Consumer Protection & Accessibility” working group, Ofgem '
 date = 2025-06-15T19:29:15-05:00
 draft = false
 +++
