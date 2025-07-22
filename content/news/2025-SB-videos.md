@@ -16,4 +16,8 @@ The PRIME project will carry out an evaluation of the videos during the week com
 The videos can be viewed here https://www.primecommunities.online/outputs/videos/ or https://www.youtube.com/playlist?list=PLmQqs2jGU8PqalRw6EFkkqe5JvZ5ZNoaW 
 
 
-Gina Netto (HWU) was responsible for writing the script with inputs from Farjana Islam (HWU), Aunam Quyoum (UofG), Deborah Menezes (HWU), Mennan Guder (CU), Mehdi Rizvi (HWU), Agnes Kukulska-Hulme (OU) and Laura Whyte (HWU) as well as the community partners listed above and members of the advisory group of the project. The videos were produced in the Institute of Educational Technology (OU), with contributions from Sara Bailey (OU), Elizabeth FitzGerald (OU) and Agnes Kukulska-Hulme (OU). Support with identifying/selecting voiceover artists and checking the translation of the scripts was provided by Zinat Aboli, Chi Keung Chan, Kefan Chen (HWU), Farjana Islam (HWU), Faisal, Mohamed Mussa, Mizan Rahman, Mehdi Rizvi (HWU), Yingfang Yuan (HWU), Aunam Quyoum (UoG), and Xiao Quian Zhou. 
+The videos were produced in the Institute of Educational Technology (OU), with contributions from Sara Bailey (OU), Elizabeth FitzGerald (OU) and Agnes Kukulska-Hulme (OU). 
+
+Gina Netto (HWU) was responsible for writing the script with inputs from Farjana Islam (HWU), Aunam Quyoum (UofG), Deborah Menezes (HWU), Mennan Guder (CU), Mehdi Rizvi (HWU), Agnes Kukulska-Hulme (OU) and Laura Whyte (HWU) as well as the community partners listed above and members of the advisory group of the project. 
+
+Support with identifying/selecting voiceover artists and checking the translation of the scripts was provided by Zinat Aboli, Chi Keung Chan, Kefan Chen (HWU), Farjana Islam (HWU), Faisal, Mohamed Mussa, Mizan Rahman, Mehdi Rizvi (HWU), Yingfang Yuan (HWU), Aunam Quyoum (UoG), and Xiao Quian Zhou. 
