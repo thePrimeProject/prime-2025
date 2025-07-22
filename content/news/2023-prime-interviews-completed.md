@@ -1,6 +1,6 @@
 +++
 title = 'Prime Interviews Completed'
-date = 2025-03-26T19:26:12-05:00
+date = 2023-03-01T19:26:12-05:00
 draft = false
 +++
 The PRIME team has gained detailed insight into the various challenges minioritised ethnic citizens are facing when trying to access digital health, energy and housing services. The task to conduct 100 interviews with individuals across England and Scotland, was made possible by working in collaboration with our community organisation partners. In particular, our community partners supported us to recruit many minoritised ethnic individuals who do not currently use digital services effectively or who may have been reluctant to participate in an academic research project otherwise.
