@@ -1,5 +1,5 @@
 +++
-title = 'Talk at REPHRAIN Policy Salon'
+title = 'New podcast about harms and bias in AI and data on Minoritised Ethnic people'
 date = 2022-07-03T19:29:15-05:00
 draft = false
 +++
