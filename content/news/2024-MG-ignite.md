@@ -5,7 +5,6 @@ draft = false
 +++
 Dr Mennan Guder | 2024
 
-![IGNITE Network+ Flexible Funding](/static/image/news/2025ignite.jpeg)
 
 PRIME team members have won a new funding from the IGNITE Network+ Flexible Fund worth £20000. The project titled "Navigating EDI Complexity: Addressing Challenges in the Energy Research Sector" would be led by Dr Mennan Guder (Cranfield University), with co-leads Prof. Nazmiye Balta-Ozkan (Cranfield University) and Dr Pegah Mirzania (Cranfield University)
  
@@ -13,3 +12,5 @@ This project investigates the impact of workforce diversity in the UK energy sec
 
 See more information about the project on the IGNITE Network+ website here: https://www.ignitenetplus.ac.uk/view/items/id/1493/funded_project-navigating-edi-complexity-addressing-challenges-in-energy-research-sector
 
+
+![IGNITE Network+ Flexible Funding](/image/news/2025ignite.jpeg)
