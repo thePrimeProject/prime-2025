@@ -1,5 +1,5 @@
 +++
-title = 'Invited Talk at Ofcom Internal Seminar Series'
+title = 'Blog post published at Digital Poverty Alliance'
 date = 2023-09-12T19:29:15-05:00
 draft = false
 +++
