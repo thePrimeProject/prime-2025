@@ -2,7 +2,7 @@
     <h2>
         {{ .Title }}
     </h2>
-    {{ .Content | truncate 320 "…" }}
+    {{ .Content | truncate 300 "…" }}
     <div class="position-absolute bottom-0 start-0">
         <a class="btn btn-primary" href="{{ .RelPermalink }}">Read More</a>
     </div>
