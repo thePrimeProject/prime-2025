@@ -1,5 +1,5 @@
 +++
-title = 'New blog post about how data systems with existing patterns of social and racial inequality can reproduce discriminatory outcomes'
+title = 'New blog post on limitations of data and AI and what this means for Minoritised Ethnic people'
 date = 2022-09-03T19:29:15-05:00
 draft = false
 +++
