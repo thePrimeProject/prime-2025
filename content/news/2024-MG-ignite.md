@@ -18,13 +18,11 @@ See more information about the project on the IGNITE Network+ website here: http
 
 {{% /col %}}
 {{% col size="4" %}}
-<a href="https://docs.google.com/document/d/11y6D4zrT91LlvhYgvvD0xNrM6zEuFYJ4XFUSDtwBUNM/edit?tab=t.0" target="_blank">
 {{< img
 src="/images/news/2025ignite.jpeg"
 alt="Dr Mennan Guder (Cranfield University) and Dr Pegah Mirzania (Cranfield University, presenting the project"
 class="img-fluid rounded"
 >}}
-</a>
 {{% /col %}}
 {{% /row %}}
 
