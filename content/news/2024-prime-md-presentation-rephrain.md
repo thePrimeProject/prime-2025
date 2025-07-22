@@ -1,5 +1,5 @@
 +++
-title = 'PRIME Multi-disciplinary Presentations at REPHRAIN’s ‘All Hands Meeting’ in Edinburgh'
+title = "PRIME Multi-disciplinary Presentations at REPHRAIN’s ‘All Hands Meeting’ in Edinburgh"
 date = 2024-07-24T19:17:19-05:00
 draft = false
 +++
