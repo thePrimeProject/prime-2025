@@ -12,13 +12,13 @@ This project investigates the impact of workforce diversity in the UK energy sec
 
 See more information about the project on the IGNITE Network+ website here: https://www.ignitenetplus.ac.uk/view/items/id/1493/funded_project-navigating-edi-complexity-addressing-challenges-in-energy-research-sector
 
-{{% /col %}}
-{{% col size="4" %}}
 <a href="https://www.ignitenetplus.ac.uk/view/items/id/1493/funded_project-navigating-edi-complexity-addressing-challenges-in-energy-research-sector" target="_blank">
 {{< img
 src="/image/news/2025ignite.jpeg"
 alt="IGNITE Network+ Flexible Funding"
 class="img-fluid rounded"
+>}}
+</a>
 >}}
 </a>
 {{% /col %}}
