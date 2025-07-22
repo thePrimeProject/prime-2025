@@ -18,14 +18,15 @@ Eunice Anteh presented her poster on her PhD project, which is part of the PRIME
 {{% /col %}}
 {{% col size="4" %}}
 {{< img
-src="/images/news/26march2025-1.jpeg"
-alt="MR and VBJ presenting posters"
-class="img-fluid rounded"
->}}
-{{< img
 src="/images/news/26march2025-2.jpeg"
 alt="Eunice Anteh presenting her poster"
 class="img-fluid rounded"
 >}}
+{{< img
+src="/images/news/26march2025-1.jpeg"
+alt="MR and VBJ presenting posters"
+class="img-fluid rounded"
+>}}
+
 {{% /col %}}
 {{% /row %}}
