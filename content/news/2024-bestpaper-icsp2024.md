@@ -1,5 +1,5 @@
 +++
-title = 'Best Paper Presentation Award'
+title = 'Best Paper Presentation Award at 10th International Conference on Signal Processing 2024 '
 date = 2024-12-03T19:29:15-05:00
 draft = false
 +++
