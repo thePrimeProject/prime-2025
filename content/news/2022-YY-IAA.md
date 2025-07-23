@@ -9,3 +9,15 @@ Dr Yingfang Yuan was awarded £6,893 through the EPSRC Impact Acceleration Accou
 
 This project facilitated targeted engagement and innovation activities between academia and industry, contributing to the development and refinement of learning technologies through expert input from both sectors.
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of YY" src="/images/team/yuan-yingfang.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Yingfang Yuan, Heriot Watt University</p>
+  </div>
+</div>

@@ -12,3 +12,15 @@ This task was further strengthened by the social science post-doctoral researche
 By capturing the day-to-day lived experiences of minoritised ethnic communities in navigating digital services, this rich data will inform the PRIME team’s understanding of where key challenges are, but will also enable us to identify how digital service design, policy and practice could be more inclusive moving forward.
 
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr Aunam" src="/images/team/aunaum.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Aunam Quyoum, University of Glasgow</p>
+  </div>
+</div>

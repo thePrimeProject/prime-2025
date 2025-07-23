@@ -21,3 +21,22 @@ Acknowledgements:
 All participants of the workshops who helped build the evidence and ideas this code of practice summarises; project partners, CEVMO Scotland and brap, who contributed to the design and delivery of workshops; PRIME team members contributing to the delivery of workshops, Sarah Ahmed and Liam Callebout for graphic recording; Prof Gina Netto, Dr Mehdi Rizvi, Dr Siamak
 Shahandashti for feedback on early drafts; organisations/social enterprises who provided workshop venues and catering; and the UKRI Strategic Priorities Fund for making this work possible.
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr Mark Wong" src="/images/team/mark-wong.png" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr Aunam Quyoum " src="/images/team/aunam.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Mark Wong, Co-I PRIME, University of Glasgow</p>
+  </div>
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Aunam Quyoum, University of Glasgowy</p>
+  </div>
+</div>

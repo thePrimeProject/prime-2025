@@ -26,4 +26,16 @@ class="img-fluid rounded"
 
 
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr MG" src="/images/team/mennan-guder.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Mennan Guder, Cranfield University</p>
+  </div>
+</div>
 
