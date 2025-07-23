@@ -27,7 +27,6 @@ src="/images/news/26march2025-1.jpeg"
 alt="MR and VBJ presenting posters"
 class="img-fluid rounded"
 >}}
-
 {{% /col %}}
 {{% /row %}}
 
@@ -35,7 +34,7 @@ class="img-fluid rounded"
 
 <div class="row" style="margin-bottom:0.5em;">
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr GN" src="/images/team/Eunice.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <img alt="Photo of Eunice Anteh" src="/images/team/Eunice.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
 </div>
 <div class="row">

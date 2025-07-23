@@ -14,7 +14,7 @@ Attendees engaged actively, asking questions and expressing strong interest in t
 
 <div class="row" style="margin-bottom:0.5em;">
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr GN" src="/images/team/Eunice.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <img alt="Photo of Eunice Anteh" src="/images/team/Eunice.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
 </div>
 <div class="row">
