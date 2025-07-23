@@ -17,39 +17,34 @@ The presentation concluded by arguing that improved national-level data collecti
 
 For further information about the findings presented at the DIPRC 2023 conference 
 
----
+--- 
 
 <div class="row" style="margin-bottom: 0.5em;">
 
   <!-- Person 1 -->
   <div class="col-lg-4">
-  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr sara bailey" src="/images/team/sara-bailey.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <div class="team-image d-flex align-items-center justify-content-start">
+      <img alt="Photo of Dr Sara Bailey" src="/images/team/sara-bailey.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    </div>
+    <div class="team-meta d-flex align-items-center justify-content-start mt-2">
+      <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Sara Bailey, The Open University</p>
+    </div>
   </div>
-</div>
-<div class="row">
-  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
-    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Sara Bailey, The Open University</p>
-  </div>
-</div>
 
   <!-- Person 2 -->
   <div class="col-lg-4">
- <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr Liz FitzGerald" src="/images/team/elizabeth-fitzgerald.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <div class="team-image d-flex align-items-center justify-content-start">
+      <img alt="Photo of Dr Liz FitzGerald" src="/images/team/elizabeth-fitzgerald.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    </div>
+    <div class="team-meta d-flex align-items-center justify-content-start mt-2">
+      <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Liz FitzGerald, The Open University</p>
+    </div>
   </div>
-</div>
-<div class="row">
-  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
-    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Liz FitzGerald, The Open University</p>
-  </div>
-</div>
-
 
   <!-- Person 3 -->
   <div class="col-lg-4">
     <div class="team-image d-flex align-items-center justify-content-start">
-      <img alt="Photo of Professor Agnes Kukulska-Hulme" src="/images/team/agnes-kukulska.jpg style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+      <img alt="Photo of Professor Agnes Kukulska-Hulme" src="/images/team/agnes-kukulska.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
     </div>
     <div class="team-meta d-flex align-items-center justify-content-start mt-2">
       <p class="team-name mb-0" style="text-align:left;width:100%;">Prof Agnes Kukulska-Hulme, CO-I PRIME, The Open University</p>
@@ -57,7 +52,6 @@ For further information about the findings presented at the DIPRC 2023 conferenc
   </div>
 
 </div>
----
 
 
 
