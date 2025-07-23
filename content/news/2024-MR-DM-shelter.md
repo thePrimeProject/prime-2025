@@ -14,7 +14,7 @@ Shelter has invited PRIME team members Dr Mehdi Rizvi and Dr Deborah Menezes to 
     <img alt="Photo of Dr Mehdi Rizvi" src="/images/team/mehdi-rizvi.png" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr Deborah Menezes" src="/images/team/deborah-menezes.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <img alt="Photo of Dr Menezes" src="/images/team/deborah-menezes.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
 </div>
 
