@@ -139,7 +139,7 @@ weight = 8
 [[menu.main]]
 parent = "Outputs"
 name = "Design guidelines"
-url = "/outputs/desing-guidelines"
+url = "/outputs/design-guidelines"
 weight = 10
 
 [[menu.main]]
