@@ -1,0 +1,5 @@
+/* Add horizontal padding between main menu items */
+nav.main-menu ul li {
+  padding-left: 18px;
+  padding-right: 18px;
+}

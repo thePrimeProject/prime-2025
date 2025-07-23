@@ -18,6 +18,7 @@ unsafe = true
 google_analytics_id = ""
 google_tag_manager_id = ""
 favicon = "favicon-32x32.png"
+custom_css = ["css/custom-menu-padding.css"]
 
 [params.homepage]
 sticky_header = false
