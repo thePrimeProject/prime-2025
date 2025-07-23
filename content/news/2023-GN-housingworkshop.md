@@ -11,3 +11,23 @@ The national-level workshop created a platform for dialogue around housing inequ
 
 A second workshop was organised an online with Shelter Scotland and the Caribbean and African Health Network to raise awareness of the project findings relating to access and use of digitalised social housing services in Scotland. Participants included representatives from Government, local authorities, housing associations, homelessness charities and researchers. Discussion focused on measures which were already in place to increase access to such services among minoritised ethnic communities as well as further actions which could be taken either singly or in collaboration with others.
 
+
+---
+
+
+{{% row %}}
+{{% col size="2" %}}
+{{< img
+src="/images/team/gina-netto.jpeg"
+alt="Prof Gina Netto"
+class="img-fluid rounded-circle"
+style="width:20px;height:20px;object-fit:cover;"
+>}}
+**Prof Gina Netto**  
+Principal Investigator, 
+PRIME project,
+Heriot Watt University
+{{% /col %}}
+{{% col size="9" %}}
+{{% /col %}}
+{{% /row %}}

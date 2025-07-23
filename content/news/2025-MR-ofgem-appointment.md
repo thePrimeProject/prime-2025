@@ -9,3 +9,20 @@ Building up from this engagement with stakeholders during PRIME, Dr Mehdi Rizvi 
 
 This particular working group will advise Ofgem on the issues of protecting consumers, accessibility, and usability, as well as barriers for the digitally disadvantaged.
  
+---
+
+
+{{% row %}}
+{{% col size="2" %}}
+{{< img
+src="/images/team/mehdi-rizvi.png"
+alt="Dr Mehdi Rizvi"
+class="img-fluid rounded-circle"
+style="width:20px;height:20px;object-fit:cover;"
+>}}
+**Dr Mehdi Rizvi**  
+Heriot-Watt University
+{{% /col %}}
+{{% col size="9" %}}
+{{% /col %}}
+{{% /row %}}

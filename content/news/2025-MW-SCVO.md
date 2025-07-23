@@ -29,3 +29,22 @@ class="img-fluid rounded"
 For full video of the panel discussion, see below:
 {{< youtube QY-GjhBnylQ >}}
 
+---
+
+
+{{% row %}}
+{{% col size="2" %}}
+{{< img
+src="/images/team/mark-wong.jpg"
+alt="Dr Mark Wong"
+class="img-fluid rounded-circle"
+style="width:20px;height:20px;object-fit:cover;"
+>}}
+**Dr Mark Wong**  
+Co-Investigator, 
+PRIME project  
+University of Glasgow
+{{% /col %}}
+{{% col size="9" %}}
+{{% /col %}}
+{{% /row %}}

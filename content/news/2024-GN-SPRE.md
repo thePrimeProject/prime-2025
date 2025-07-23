@@ -8,3 +8,24 @@ Prof Gina Netto | 2024
 Prof Gina Netto, Principal Investigator of the PRIME project, was invited to speak at an online seminar titled “Unpacking ‘impact’ in academic-policy engagement,” organised by the Scottish Policy Research Exchange (SPRE) for the Scottish Government. The event brought together national-level policymakers, business representatives, and other stakeholders to explore effective collaboration between researchers and government.
 
 Prof Netto shared her extensive experience of working with the Scottish Government, including commissioned research projects, advisory group roles, expert testimony to parliamentary enquiries, and the organisation of a major conference at the Royal Society of Edinburgh. She also reflected on how this long-standing engagement helped secure vital support from government departments—such as the Scottish Government Housing Directorate and Equalities Division—and partner organisations including Public Health Scotland and the Convention for Scottish Local Housing Authorities for the PRIME project.
+
+
+---
+
+
+{{% row %}}
+{{% col size="2" %}}
+{{< img
+src="/images/team/gina-netto.jpeg"
+alt="Prof Gina Netto"
+class="img-fluid rounded-circle"
+style="width:20px;height:20px;object-fit:cover;"
+>}}
+**Prof Gina Netto**  
+Principal Investigator, 
+PRIME project,
+Heriot Watt University
+{{% /col %}}
+{{% col size="9" %}}
+{{% /col %}}
+{{% /row %}}
