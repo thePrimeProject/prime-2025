@@ -7,6 +7,8 @@ Dr Mehdi Rizvi and Dr Deborah Menezes | April 2024
 
 Shelter has invited PRIME team members Dr Mehdi Rizvi and Dr Deborah Menezes to be a part of their Racism and Housing Research Advisory group. The project has a focus on people of colour facing systemic racism and discrimination when navigating the social housing system. 
 
+---
+
 <div class="row" style="margin-bottom:0.5em;">
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
     <img alt="Photo of Dr Mehdi Rizvi" src="/images/team/mehdi-rizvi.png" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
