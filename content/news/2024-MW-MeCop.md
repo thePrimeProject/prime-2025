@@ -25,7 +25,7 @@ Shahandashti for feedback on early drafts; organisations/social enterprises who 
 
 <div class="row" style="margin-bottom:0.5em;">
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr Mark Wong" src="/images/team/mark-wong.png" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <img alt="Photo of Dr Mark Wong" src="/images/team/mark-wong.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
     <img alt="Photo of Dr Aunam Quyoum " src="/images/team/aunam.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
