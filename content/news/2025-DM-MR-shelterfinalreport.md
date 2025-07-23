@@ -11,34 +11,22 @@ See full report and further details here: https://england.shelter.org.uk/profess
 
 ---
 
-{{% row %}}
-{{% col size="1" %}}
-{{< img
-src="/images/team/mehdi-rizvi.png"
-alt="Dr Mehdi Rizvi"
-class="img-fluid rounded-circle"
-style="width:80px;height:80px;object-fit:cover;"
->}}
-{{% /col %}}
-{{% col size="1" %}}
-{{< img
-src="/images/team/deborah-menezes.jpg"
-alt="Dr Deborah Menezes"
-class="img-fluid rounded-circle"
-style="width:80px;height:80px;object-fit:cover;"
->}}
-{{% /col %}}
-{{% /row %}}
+<div class="row">
+  <div class="team-image col-lg-4">
+    <img alt="Photo of Dr Mehdi Rizvi" src="/images/team/mehdi-rizvi.png" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+  <div class="team-meta col-lg-8">
+    <p class="team-description">PRIME project, Heriot Watt University</p>
+    <h2 class="team-name">Dr Mehdi Rizvi</h2>
+  </div>
+</div>
 
-{{% row %}}
-{{% col size="2" %}}
-**Dr Mehdi Rizvi**  
-PRIME project  
-Heriot Watt University
-{{% /col %}}
-{{% col size="2" %}}
-**Dr Deborah Menezes**  
-PRIME project  
-Heriot Watt University
-{{% /col %}}
-{{% /row %}}
+<div class="row" style="margin-top:1.5em;">
+  <div class="team-image col-lg-4">
+    <img alt="Photo of Dr Deborah Menezes" src="/images/team/deborah-menezes.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+  <div class="team-meta col-lg-8">
+    <p class="team-description">PRIME project, Heriot Watt University</p>
+    <h2 class="team-name">Dr Deborah Menezes</h2>
+  </div>
+</div>
