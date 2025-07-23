@@ -1,5 +1,5 @@
 +++
-title = "Keynote speech at the Iranian National Informatics Conference"
+title = "Keynote speech at the National Informatics Conference"
 date = 2025-02-26T10:00:00-05:00
 draft = false
 +++
