@@ -45,7 +45,7 @@ Learn more</a>
 
 {{% /col %}}
 {{% col size="6" class="mb-4" %}}
-<video controls width="100%" preload="metadata">
+<video controls style="width: 75%;" preload="metadata">
   <source src="/images/news/liz-interview.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
