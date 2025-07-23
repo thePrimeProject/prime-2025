@@ -16,3 +16,19 @@ Further details of the panel can be found here: https://www.scottishaisummit.com
 For a video recording of the panel discussion, please see below:
 {{< youtube azfaR7zaCio >}}
 
+
+---
+
+
+
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr GN" src="/images/team/gina-netto.jpeg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Prof Gina Netto, PI PRIME, Heriot Watt University</p>
+  </div>
+</div>

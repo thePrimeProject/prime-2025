@@ -21,3 +21,17 @@ The videos were produced in the Institute of Educational Technology (OU), with c
 Gina Netto (HWU) was responsible for writing the script with inputs from Farjana Islam (HWU), Aunam Quyoum (UofG), Deborah Menezes (HWU), Mennan Guder (CU), Mehdi Rizvi (HWU), Agnes Kukulska-Hulme (OU) and Laura Whyte (HWU) as well as the community partners listed above and members of the advisory group of the project. 
 
 Support with identifying/selecting voiceover artists and checking the translation of the scripts was provided by Zinat Aboli, Chi Keung Chan, Kefan Chen (HWU), Farjana Islam (HWU), Faisal, Mohamed Mussa, Mizan Rahman, Mehdi Rizvi (HWU), Yingfang Yuan (HWU), Aunam Quyoum (UoG), and Xiao Quian Zhou. 
+
+
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr sara bailey" src="/images/team/sara-bailey.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Sara Bailey, The Open University</p>
+  </div>
+</div>

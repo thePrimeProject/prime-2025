@@ -10,3 +10,15 @@ End Digital Poverty Day, a nationwide initiative dedicated to raising awareness 
 The full post can be found here: https://digitalpovertyalliance.org/events/digital-poverty-limited-digital-literacy-inadequate-language-support-impeding-minoritised-ethnic-communities-access-digitalised-services/ 
 
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr sara bailey" src="/images/team/sara-bailey.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Dr Sara Bailey, The Open University</p>
+  </div>
+</div>
