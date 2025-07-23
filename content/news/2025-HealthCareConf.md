@@ -15,8 +15,6 @@ Eunice Anteh presented her poster on her PhD research liked with the PRIME proje
 
 More information about the conference can be found here https://www.hw.ac.uk/news/blog/2025/heriot-watts-inaugural-health-and-care-innovation-conference-for-early-career-researchers
 
-{{< img
-
 {{% /col %}}
 {{% col size="4" %}}
 {{< img
