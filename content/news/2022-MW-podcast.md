@@ -13,7 +13,7 @@ Listen to the podcast here: https://open.spotify.com/episode/2pAXbvVrdl8wNUoo3QU
 ---
 
 {{% row %}}
-{{% col size="3" %}}
+{{% col size="1" %}}
 {{< img
 src="/images/team/mark-wong.jpg"
 alt="Dr Mark Wong"
