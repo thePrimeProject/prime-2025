@@ -22,7 +22,7 @@ For further information about the findings presented at the DIPRC 2023 conferenc
 <div class="row" style="margin-bottom: 0.5em;">
 
   <!-- Person 1 -->
-  <div class="col-lg-4">
+  <div class="col-lg-3">
     <div class="team-image d-flex align-items-center justify-content-start">
       <img alt="Photo of Dr Sara Bailey" src="/images/team/sara-bailey.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
     </div>
@@ -32,7 +32,7 @@ For further information about the findings presented at the DIPRC 2023 conferenc
   </div>
 
   <!-- Person 2 -->
-  <div class="col-lg-4">
+  <div class="col-lg-3">
     <div class="team-image d-flex align-items-center justify-content-start">
       <img alt="Photo of Dr Liz FitzGerald" src="/images/team/elizabeth-fitzgerald.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
     </div>
@@ -42,7 +42,7 @@ For further information about the findings presented at the DIPRC 2023 conferenc
   </div>
 
   <!-- Person 3 -->
-  <div class="col-lg-4">
+  <div class="col-lg-3">
     <div class="team-image d-flex align-items-center justify-content-start">
       <img alt="Photo of Professor Agnes Kukulska-Hulme" src="/images/team/agnes-kukulska.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
     </div>
@@ -51,8 +51,10 @@ For further information about the findings presented at the DIPRC 2023 conferenc
     </div>
   </div>
 
-</div>
+  <!-- Padding Column -->
+  <div class="col-lg-3"></div>
 
+</div>
 
 
 
