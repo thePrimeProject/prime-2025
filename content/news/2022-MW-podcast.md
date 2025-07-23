@@ -12,6 +12,7 @@ Listen to the podcast here: https://open.spotify.com/episode/2pAXbvVrdl8wNUoo3QU
 
 ---
 
+
 {{% row %}}
 {{% col size="2" %}}
 {{< img
@@ -21,7 +22,8 @@ class="img-fluid rounded-circle"
 style="width:20px;height:20px;object-fit:cover;"
 >}}
 **Dr Mark Wong**  
-Co-Investigator, PRIME project  
+Co-Investigator, 
+PRIME project  
 University of Glasgow
 {{% /col %}}
 {{% col size="9" %}}
