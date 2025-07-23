@@ -18,7 +18,7 @@ Listen to the podcast here: https://open.spotify.com/episode/2pAXbvVrdl8wNUoo3QU
 src="/images/team/mark-wong.jpg"
 alt="Dr Mark Wong"
 class="img-fluid rounded-circle"
-style="width:90px;height:90px;object-fit:cover;"
+style="width:20px;height:20px;object-fit:cover;"
 >}}
 {{% /col %}}
 {{% col size="9" %}}
