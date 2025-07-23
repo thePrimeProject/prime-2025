@@ -33,6 +33,31 @@ Learn more</a>
 {{% row class="text-align mt-5 links-media" %}}
 {{% col size="6" class="mb-4" %}}
 
+# Dr Liz FitzGerald talks about her research in PRIME project 
+
+“PRIME has provided a crucial evidence base demonstrating how digital inequalities disproportionately affect minoritised ethnic communities." says Dr Liz FitzGerald, OU Senior Lecturer. 
+
+The PRIME project is a major three-year research initiative led by Heriot-Watt University.
+
+<a href="https://ow.ly/b3uU50VhXJO" target="_blank" class="btn btn-primary ">
+Learn more</a>
+
+
+{{% /col %}}
+{{% col size="6" class="mb-4" %}}
+<video controls width="100%" preload="metadata">
+  <source src="/images/news/liz-interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+{{% /col %}}
+{{% /row %}}
+
+
+---
+
+{{% row class="text-align mt-5 links-media" %}}
+{{% col size="6" class="mb-4" %}}
+
 # Invited panel speaker at SCVO’s The Gathering
 ## "Putting people and values at the heart of Al"
 
