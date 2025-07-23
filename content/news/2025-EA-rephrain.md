@@ -10,3 +10,15 @@ PhD researcher Eunice Anteh presented at the REPHRAIN Showcase, sharing the aims
 Attendees engaged actively, asking questions and expressing strong interest in the topic. Several participants offered resources and constructive suggestions to support the research, and some requested to stay involved as the project progresses. The event also sparked interest in future collaboration and related initiatives.
 
 
+---
+
+<div class="row" style="margin-bottom:0.5em;">
+  <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
+    <img alt="Photo of Dr GN" src="/images/team/Eunice.jpeg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+  </div>
+</div>
+<div class="row">
+  <div class="team-meta col-lg-2 d-flex align-items-center justify-content-start">
+    <p class="team-name mb-0" style="text-align:left;width:100%;">Eunice Anteh, PhD Candidate, Heriot Watt University</p>
+  </div>
+</div>
