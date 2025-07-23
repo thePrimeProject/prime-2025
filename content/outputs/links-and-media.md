@@ -33,7 +33,7 @@ Learn more</a>
 {{% row class="text-align mt-5 links-media" %}}
 {{% col size="6" class="mb-4" %}}
 
-# Dr Liz FitzGerald talks about her research in PRIME project 
+# Dr Liz FitzGerald talks about her research in the PRIME project 
 
 “PRIME has provided a crucial evidence base demonstrating how digital inequalities disproportionately affect minoritised ethnic communities." says Dr Liz FitzGerald, OU Senior Lecturer. 
 
