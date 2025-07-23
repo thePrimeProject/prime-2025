@@ -14,26 +14,29 @@ See full report and further details here: https://england.shelter.org.uk/profess
 {{% row %}}
 {{% col size="2" %}}
 {{< img
-src="/images/team/mehdi-rizvi.jpg"
+src="/images/team/mehdi-rizvi.png"
 alt="Dr Mehdi Rizvi"
 class="img-fluid rounded-circle"
-style="width:40px;height:40px;object-fit:cover;"
+style="width:80px;height:80px;object-fit:cover;"
 >}}
-{{% /col %}}
-{{% col size="4" %}}
-**Dr Mehdi Rizvi**  
-PRIME project  
-Heriot Watt University
 {{% /col %}}
 {{% col size="2" %}}
 {{< img
 src="/images/team/deborah-menezes.jpg"
 alt="Dr Deborah Menezes"
 class="img-fluid rounded-circle"
-style="width:40px;height:40px;object-fit:cover;"
+style="width:80px;height:80px;object-fit:cover;"
 >}}
 {{% /col %}}
-{{% col size="4" %}}
+{{% /row %}}
+
+{{% row %}}
+{{% col size="2" %}}
+**Dr Mehdi Rizvi**  
+PRIME project  
+Heriot Watt University
+{{% /col %}}
+{{% col size="2" %}}
 **Dr Deborah Menezes**  
 PRIME project  
 Heriot Watt University
