@@ -14,7 +14,7 @@ The international audience of 30 participants included professional practitioner
 
 <div class="row" style="margin-bottom:0.5em;">
   <div class="team-image col-lg-2 d-flex align-items-center justify-content-start">
-    <img alt="Photo of Dr Wong" src="/images/team/mark-wong.jpeg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
+    <img alt="Photo of Dr Wong" src="/images/team/mark-wong.jpg" style="width:120px;height:120px;object-fit:cover;border-radius:50%;">
   </div>
 </div>
 <div class="row">
