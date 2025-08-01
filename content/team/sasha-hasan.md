@@ -3,11 +3,12 @@ title: "Sacha Hasan"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/sacha-hasan.jpg"
 jobtitle: "Dr"
-website: 'https://www.website.com/'
-Twitterhandle: 'sasha-hasan'
-orcid: 'https://www.orcid.com/'
-linkedinurl: 'https://www.linkedin.com/'
-academiaedu: 'https://www.academia.edu.com/'
+website: 'https://researchportal.hw.ac.uk/en/persons/sacha-hasan-3 '
+Twitterhandle: 'SachaHasan'
+orcid: 'https://orcid.org/0000-0003-1703-1017'
+linkedinurl: 'https://www.linkedin.com/in/sacha-hasan-21797141/?originalSubdomain=uk'
+academiaedu: 'https://hw.academia.edu/SachaHasan?swp=tc-au-48641622'
+researchgate: 'https://www.researchgate.net/profile/Sacha-Hasan'
 alumni: true
 draft: false
 weight: 100

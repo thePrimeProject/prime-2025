@@ -3,8 +3,8 @@ title: "Yingfang Yuan"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/yuan-yingfang.jpg"
 jobtitle: "Dr"
-website: 'https://www.website.com/'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
+website: 'https://yuanjames.github.io/'
+GoogleScholar: 'https://scholar.google.com/citations?user=nT2T8M4AAAAJ&hl=en'
 draft: false
 weight: 100
 promoted: true

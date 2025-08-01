@@ -3,8 +3,8 @@ title: "Eunice Anteh"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/Eunice.jpg"
 jobtitle: "Ms"
-linkedinurl: 'https://www.linkedin.com/'
-Twitterhandle: 'eunice-anteh'
+linkedinurl: 'https://www.linkedin.com/in/euniceanteh/'
+Twitterhandle: 'deedeianteh'
 draft: false
 weight: 100
 promoted: true

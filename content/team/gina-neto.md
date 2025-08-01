@@ -3,7 +3,6 @@ title: "Gina Neto"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/gina-netto.jpeg"
 jobtitle: "Professor"
-linkedinurl: 'https://www.linkedin.com/'
 Twitterhandle: 'netto_gina'
 draft: false
 weight: 100

@@ -3,12 +3,12 @@ title: "Mehdi Rizvi"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/mehdi-rizvi.png"
 jobtitle: "Dr"
-Twitterhandle: 'mehdi-rizvi'
-instagram: 'https://instagram.com/'
-orcid: 'https://www.orcid.com/'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
-linkedinurl: 'https://www.linkedin.com/'
-researchgate: 'https://researshgate.com/'
+Twitterhandle: 'syRizMehdi'
+instagram: 'https://www.instagram.com/syrizmehdi/'
+orcid: 'https://orcid.org/0000-0001-8386-5779'
+GoogleScholar: 'https://scholar.google.com/citations?hl=en&user=AHWbAR4AAAAJ '
+linkedinurl: 'https://www.linkedin.com/in/mehdi-rizvi-84b319116/'
+researchgate: 'https://www.researchgate.net/profile/Mehdi-Rizvi-3'
 draft: false
 weight: 100
 promoted: true

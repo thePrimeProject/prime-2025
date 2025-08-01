@@ -3,8 +3,8 @@ title: "Agnes Kukulska-Hulme"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/agnes-kukulska.jpg"
 jobtitle: "Professor"
-website: 'https://www.website.com/'
-Twitterhandle: 'agnes-kukulska'
+website: 'http://oro.open.ac.uk/view/person/ak35.html'
+Twitterhandle: 'agneskh'
 draft: false
 weight: 100
 promoted: true

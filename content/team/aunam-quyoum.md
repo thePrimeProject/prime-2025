@@ -3,7 +3,7 @@ title: "Aunam Quyoum"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/aunam.jpg"
 jobtitle: "Dr"
-orcid: 'https://www.orcid.com/'
+orcid: 'https://orcid.org/0000-0003-3637-543X'
 draft: false
 weight: 100
 promoted: true

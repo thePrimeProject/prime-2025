@@ -4,11 +4,11 @@ date: 2025-03-29T14:04:11-05:00
 image: "images/team/elizabeth-fitzgerald.jpg"
 jobtitle: "Dr"
 website: 'https://iet.open.ac.uk/people/elizabeth.fitzgerald'
-Twitterhandle: 'netto_gina'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
-Academiaedu: 'https://www.academia.edu.co/'
-researchgate: 'https://researshgate.com/'
-SlideShare: 'https://SlideShare.com/'
+Twitterhandle: 'elara99'
+GoogleScholar: 'https://scholar.google.co.uk/citations?user=bMoJ-GMAAAAJ&hl=en'
+Academiaedu: 'https://open.academia.edu/LizFitzGerald'
+researchgate: 'https://www.researchgate.net/profile/Elizabeth-Fitzgerald-2'
+SlideShare: 'https://www.slideshare.net/ejfitzgerald'
 draft: false
 weight: 100
 promoted: true

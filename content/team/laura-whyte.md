@@ -3,9 +3,9 @@ title: "Laura Whyte"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/laura-whyte.jpeg"
 jobtitle: "Dr"
-Twitterhandle: 'laura-whyte'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
-linkedinurl: 'https://www.linkedin.com/'
+Twitterhandle: 'https://x.com/whytewithawhy'
+GoogleScholar: 'https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lH-LFQMAAAAJ'
+linkedinurl: 'https://www.linkedin.com/in/whytewithawhy'
 draft: false
 weight: 100
 promoted: true

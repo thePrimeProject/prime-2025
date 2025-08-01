@@ -3,11 +3,11 @@ title: "Siamak Shahandashti"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/siamak-shahandash.jpg"
 jobtitle: "Dr"
-website: 'https://www.website.com/'
-Twitterhandle: 'siamak-shahandashti'
-orcid: 'https://www.orcid.com/'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
-linkedinurl: 'https://www.linkedin.com/'
+website: 'https://www.cs.york.ac.uk/~siamakhttps://www.cs.york.ac.uk/~siamak'
+Twitterhandle: 'SiamakFS'
+orcid: 'https://orcid.org/0000-0002-5284-6847'
+GoogleScholar: 'https://scholar.google.co.uk/citations?user=CZTajNQAAAAJ'
+linkedinurl: 'http://au.linkedin.com/in/siamakfs'
 draft: false
 weight: 100
 promoted: true

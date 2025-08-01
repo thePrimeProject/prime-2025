@@ -3,7 +3,8 @@ title: "Sara Bailey"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/sara-bailey.jpg"
 jobtitle: "Dr"
-linkedinurl: 'https://www.linkedin.com/'
+Twitterhandle: 'DrSaraBailey'
+linkedinurl: 'https://www.linkedin.com/in/sara-bailey-a509a1b/ '
 draft: false
 weight: 100
 promoted: true

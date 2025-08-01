@@ -2,11 +2,11 @@
 title: "Wei Pang"
 date: 2025-03-29T14:04:11-05:00
 image: "images/team/wei-pang.jpg"
-jobtitle: "Professor"
-website: 'https://www.website.com/'
-Twitterhandle: 'wei-pang'
-GoogleScholar: 'https://www.google.scholar.edu.co/'
-urkifunding: 'https//www.urki.com/'
+jobtitle: "Dr"
+website: 'https://pangwei.eu.org/'
+Twitterhandle: 'pangweijlu'
+GoogleScholar: 'https://scholar.google.co.uk/citations?user=kfFNe0cAAAAJ&hl=en'
+urkifunding: 'https://gtr.ukri.org/person/E5124531-09D6-4C74-B0B2-EA7F384A1409'
 draft: false
 weight: 100
 promoted: true
