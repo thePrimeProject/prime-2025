@@ -9,7 +9,7 @@ orcid: 'https://orcid.org/0000-0003-1703-1017'
 linkedinurl: 'https://www.linkedin.com/in/sacha-hasan-21797141/?originalSubdomain=uk'
 academiaedu: 'https://hw.academia.edu/SachaHasan?swp=tc-au-48641622'
 researchgate: 'https://www.researchgate.net/profile/Sacha-Hasan'
-alumni: true
+alumni: false
 draft: false
 weight: 100
 promoted: true
