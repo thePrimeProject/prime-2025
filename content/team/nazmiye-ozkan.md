@@ -11,6 +11,6 @@ linkedinurl: 'https://www.linkedin.com/in/nazmiye-ozkan-8916585/'
 draft: false
 weight: 100
 promoted: true
-order: 11
+order: 5
 ---
 Prof Nazmiye Ozkan has a chair in Sustainable Energy Transitions at Cranfield University. Building on her interdisciplinary training as an urban planner, her research focuses on developing socio-technical systems frameworks, models and tools to identify and manage risks, opportunities and challenges associated with digitisation and decarbonisation of energy and transport systems. Over the last twenty years, she has been principal or co-investigator on research projects worth over £16M funded via Research Councils UK, the European Commission as well as government agencies and industry.
