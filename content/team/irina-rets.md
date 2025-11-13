@@ -9,7 +9,7 @@ orcid: 'https://orcid.org/0000-0001-8832-0962'
 GoogleScholar: 'https://scholar.google.com/citations?user=PSlH6IcAAAAJ&hl=en&oi=ao'
 linkedinurl: 'https://www.linkedin.com/in/irina-rets-phd-013448151/'
 researchgate: 'https://www.researchgate.net/profile/Irina-Rets'
-alumni: true
+alumni: false
 draft: false
 weight: 100
 promoted: true
