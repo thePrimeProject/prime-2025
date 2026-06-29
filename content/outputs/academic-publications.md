@@ -7,12 +7,24 @@ hideTitle = true
 
 # **Published Papers**
 
+
 ## **Migration, Access to Social Housing and Reflexivity: Migrant Engagement with Choice-Based Lettings Systems in the UK**
 
-### **Deborah Menezes, Gina Netto, Sacha Hasan | Social Sciences, Special Issue on Migration and Housing)**
+### **Deborah Menezes, Gina Netto, Sacha Hasan**
+**_Social Sciences, Special Issue on Migration and Housing_**
+
 The disadvantaged position of racialised minorities in accessing the UK’s social housing sector has been extensively documented in previous research, with evidence dating back to the 1960s. However, the specific challenges encountered by migrants remain under-researched. Further, attention has focused on the agency of migrants rather than the reflexivity which underpins the actions they can take. These gaps limit understanding of the extent to which the impacts of migration on individuals seeking to access the social rented sector can be disentangled from the challenges associated with racial disadvantage. They also limit understanding of the nature of migrant reflexivity. To address these omissions, we employed a critical realist framework informed by a literature review to analyse qualitative data generated from a subset of fifteen individuals from a wider sample of a hundred racialised minorities living in the UK. Fieldwork was undertaken across four case study areas with high concentrations of racialised minorities: Tower Hamlets (London), Bradford, Manchester, and Glasgow. By exploring participants’ experiences of engaging with the digital allocation system of Choice-Based Lettings (CBL), we highlight the role of migration-related factors in determining access to social housing through online systems, including country of origin, age at migration, length of stay and education in the UK, employment trajectories, proficiency in English and familiarity with digital systems. We also reveal three components of migrant reflexivity: emotional, communal and strategic. We conclude that attention to reflexivity increases understanding of the distinctive engagement of migrants with CBL systems compared to other racialised minorities.
 
 <a href="https://www.mdpi.com/2076-0760/15/3/159" target="_blank" class="btn btn-primary ">
+Read more</a>
+
+## **Quantifying the Cross-sectoral Intersecting Discrepancies within Multiple Groups Using Latent Class Analysis Towards Fairness**
+### **Yingfang Yuan, Kefan Chen, Mehdi Rizvi, Lynne Baillie, Wei Pang**
+**_2025 International Joint Conference on Neural Networks (IJCNN) _**
+
+The growing interest in fair AI development is evident. The "Leave No One Behind" initiative urges us to address multiple and intersecting forms of inequality in accessing services, resources, and opportunities, emphasising the significance of fairness in AI. This is particularly relevant as an increasing number of AI tools are applied to decision-making processes, such as resource allocation and service scheme development, across various sectors such as health, energy, and housing. Therefore, exploring joint inequalities in these sectors is significant and valuable for thoroughly understanding overall inequality and unfairness. This research introduces an innovative approach to quantify cross-sectoral intersecting discrepancies among user-defined groups using latent class analysis. These discrepancies can be used to approximate inequality and provide valuable insights to fairness issues. We validate our approach using both proprietary and public datasets, including both EVENS and Census 2021 (England & Wales) datasets, to examine cross-sectoral intersecting discrepancies among different ethnic groups. We also verify the reliability of the quantified discrepancy by conducting a correlation analysis with a government public metric. Our findings reveal significant discrepancies both among minority ethnic groups and between minority ethnic groups and non-minority ethnic groups, emphasising the need for targeted interventions in policy-making processes. Furthermore, we demonstrate how the proposed approach can provide valuable insights into ensuring fairness in machine learning systems.
+
+<a href="https://ieeexplore.ieee.org/abstract/document/11227955" target="_blank" class="btn btn-primary ">
 Read more</a>
 
 
