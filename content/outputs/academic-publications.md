@@ -20,7 +20,7 @@ Read more</a>
 
 ## **Quantifying the Cross-sectoral Intersecting Discrepancies within Multiple Groups Using Latent Class Analysis Towards Fairness**
 ### **Yingfang Yuan, Kefan Chen, Mehdi Rizvi, Lynne Baillie, Wei Pang**
-**_2025 International Joint Conference on Neural Networks (IJCNN) _**
+**_2025 International Joint Conference on Neural Networks (IJCNN)_**
 
 The growing interest in fair AI development is evident. The "Leave No One Behind" initiative urges us to address multiple and intersecting forms of inequality in accessing services, resources, and opportunities, emphasising the significance of fairness in AI. This is particularly relevant as an increasing number of AI tools are applied to decision-making processes, such as resource allocation and service scheme development, across various sectors such as health, energy, and housing. Therefore, exploring joint inequalities in these sectors is significant and valuable for thoroughly understanding overall inequality and unfairness. This research introduces an innovative approach to quantify cross-sectoral intersecting discrepancies among user-defined groups using latent class analysis. These discrepancies can be used to approximate inequality and provide valuable insights to fairness issues. We validate our approach using both proprietary and public datasets, including both EVENS and Census 2021 (England & Wales) datasets, to examine cross-sectoral intersecting discrepancies among different ethnic groups. We also verify the reliability of the quantified discrepancy by conducting a correlation analysis with a government public metric. Our findings reveal significant discrepancies both among minority ethnic groups and between minority ethnic groups and non-minority ethnic groups, emphasising the need for targeted interventions in policy-making processes. Furthermore, we demonstrate how the proposed approach can provide valuable insights into ensuring fairness in machine learning systems.
 
@@ -61,8 +61,7 @@ Read more</a>
 
 ## **Digital Solutions for Migrant and Refugee Health: A Framework for Analysis and Action**
 
-### Stephen A. Matlin, Johanna Hanefeld, Ana Corte-Real, Paulo Rupino da Cunha, Thea de Gruchy, Karima Noorali Manji, *
-*Gina Netto**, Tiago Nunes, İlke Şanlıer, Amirhossein Takian, Muhammad Hamid Zaman, Luciano Saso
+### **Stephen A. Matlin, Johanna Hanefeld, Ana Corte-Real, Paulo Rupino da Cunha, Thea de Gruchy, Karima Noorali Manji, Gina Netto, Tiago Nunes, İlke Şanlıer, Amirhossein Takian, Muhammad Hamid Zaman, Luciano Saso**
 
 Digital technologies can help support the health of migrants and refugees and facilitate research on their health issues. However, ethical concerns include security and confidentiality of information; informed consent; how to engage migrants in designing, implementing and researching digital tools; inequitable access to mobile devices and the internet; and access to health services for early intervention and follow-up. Digital technical solutions do not necessarily overcome problems that are political, social, or economic. There are major deficits with regard to (1) reliable data on the health needs of migrants and mobile populations and on how they can use digital tools to support their health; (2) evidence on effectiveness of solutions; and (3) a broad framework to guide future work. This article provides a wide socio-technical perspective, as a framework for analysis and developing coherent agendas across global-to-local spaces, with particular attention to the European region.
 
@@ -71,7 +70,8 @@ Read more</a>
 
 ## **Digitalised Primary Care in the UK: The Experiences of Minoritised Ethnic Communities**
 
-### **Farjana Islam, Sara Bailey and Gina Netto | British Journal of General Practice 2024**
+### **Farjana Islam, Sara Bailey and Gina Netto**
+**_British Journal of General Practice 2024_**
 
 Barriers to accessing and using primary care services among minoritised ethnic communities have been extensively evidenced in the UK. However, the impact of the rapid digitalisation of these services on these communities remains under-researched. To explore the impacts of digitalisation on access to and use of primary care services among minoritised ethnic communities in the UK. To explore the impacts of digitalisation on access to and use of primary care services among minoritised ethnic communities in the UK. 100 minoritised ethnic adults who identify as Black African, Black Caribbean, Bangladeshi, Indian, Pakistani, Chinese, and of mixed or multiple ethnic heritage in four sites in the UK were purposively recruited and interviewed. Interviews were thematically analysed to increase understanding of how individuals’ ethnicity intersects with other characteristics (e.g. language, age, gender, socio-economic status) to identify constraints and enablements to accessing healthcare. Minoritised ethnic individuals’ access to digital primary care is impeded by factors such as digital precarity (e.g. inadequate devices, internet connectivity and digital literacy skills), a lack of language support and staff shortcomings in responding to ethnically diverse populations. Intergenerational support and bespoke offerings by general practices in some areas enable some individuals to overcome some of the constraints. The rapid digitalisation of primary care services is replicating and potentially exacerbating barriers to using these services among minoritised ethnic communities, a finding which merits urgent attention by practitioners and policymakers.
 
@@ -80,7 +80,8 @@ Read more</a>
 
 ## **Minority Ethnic Vulnerabilities in the Use of Digital Housing Services Across Age Groups**
 
-### **Sacha Hasan and Yingfang Yuan | European Network for Housing Research Conference 2023**
+### **Sacha Hasan and Yingfang Yuan**
+**_European Network for Housing Research Conference 2023_**
 
 Despite the accelerated digitalisation of social housing services, there has been a lack of focused attention to the harms that are likely to arise through the systemic inequalities encountered by minoritised ethnic (ME) communities in the UK. Within this context, we are employing an intersectional framework to underline the centrality of age to ME vulnerabilities including lack of digital literacy and proficiency in English in the access, use and outcomes of digitalised social housing services. We draw our findings from an interdisciplinary sentimental analysis of 100 interviews with ME individuals in Glasgow, Bradford, Manchester and Tower Hamlets for extracting vulnerabilities and assessing their intensities across different ME age groups, and a subsample of qualitative analysis of 21 interviews. This is to illustrate similarities and differences of sentimental analysis of these vulnerabilities between machine learning (ML) and inductive coding, offering an example for future ML supported qualitative data analysis approach in housing studies.
 
@@ -89,7 +90,8 @@ Read more</a>
 
 ## **Valuing Lived Experience and Co-Design Solutions to Counter Racial Inequality in Data and Algorithmic Systems in the UK’s Digital Services**
 
-### **Aunam Quyoum and Mark Wong | Information, Communication & Society, 2024**
+### **Aunam Quyoum and Mark Wong**
+**_Information, Communication & Society, 2024_**
 
 This paper argues it is imperative to understand, and value, racialised minorities’ lived experience to inform and improve digital services’ design to be more inclusive and equitable. Drawing on qualitative interviews and workshops with individuals who identify as a minoritised ethnic individual across England and Scotland, we explore people’s lived experience of everyday digital services. The findings highlight issues related to trust, data privacy, and poorer quality access to services. Such experiences are shaped by the fears and lived experience of racism, both structural and institutional.
 
@@ -100,7 +102,8 @@ Read more</a>
 
 ## **Minority Ethnic Vulnerabilities in the Access and Use of Digitalised Social Housing Services: A Critical Realist Intersectional Analysis of Housing Policy and Management**
 
-### **Sacha Hasan and Gina Netto | Housing Studies Association Annual Conference 2024**
+### **Sacha Hasan and Gina Netto**
+**_Housing Studies Association Annual Conference 2024_**
 
 Despite the accelerated digitalisation of social housing services, there has been a lack of focused attention on the impact of these processes of digitalisation on diverse communities. the harms that are likely to arise through the systemic inequalities encountered by minoritised ethnic (ME) communities in the UK. Digital poverty, digital literacy and lack of English proficiency have been identified as key barriers to ME communities’ access and use of digitalised social housing services. In this paper, we adopt a critical realist, intersectional approach to understand the experiences of minoritised ethnic communities within the institutional structure of social housing services. We call for greater attention to the development of anti-racist processes and outcomes, along with an intersectional approach to engaging with applicants and tenants of social housing as part of wider equality, diversity and inclusion initiatives in the digitalisation of services.
 
@@ -109,7 +112,8 @@ Read more</a>
 
 ## **Digital Mobilities and Immobilities in Accessing Health Services: The Experiences of Minoritised Ethnic Communities in Accessing and Using Primary Care Services in the UK**
 
-### **Farjana Islam, Gina Netto, and Agnes Kukulska-Hulme | IMISCOE Spring Conference 2024**
+### **Farjana Islam, Gina Netto, and Agnes Kukulska-Hulme**
+**_IMISCOE Spring Conference 2024_**
 
 Systemic and racialised exclusions from accessing and using primary health care services are protracted forms of exclusions that are consistent and prevalent within the contemporary landscape of health inequalities in UK cities. With the massive push towards the rapid digital transformation of primary health services in recent times, which has been accelerated since the emergence of the Covid pandemic, there is a risk that racialised exclusions will increase. We highlight a spectrum of digital mobilities among individuals from diverse ethnic groups and multiple identities in engaging with primary care services, ranging from complete digital immobility to complete mobility. Within this spectrum, others get by, assisted in some cases by a cluster of local resources, such as support from relatives or neighbours or bilingual staff within the health service, and often at the cost of loss of privacy. However, their access to health services remains conditional on the availability and suitability of these supports, leading us to propose the concept of ‘digital precarity’ to illuminate their often tenuous relationship with ever-changing digital health services.
 
@@ -118,7 +122,8 @@ Read more</a>
 
 ## **Racialised Exclusions in Digital Healthcare: Combining Insights from Narrative Interviews and Human-Computer Interaction**
 
-### **Farjana Islam, Sara Bailey, Mehdi Rizvi, Gina Netto, and Agnes Kukulska-Hulme | Qualitative Health Research Network Conference 2024**
+### **Farjana Islam, Sara Bailey, Mehdi Rizvi, Gina Netto, and Agnes Kukulska-Hulme**
+**_Qualitative Health Research Network Conference 2024_**
 
 There is a limited understanding of the extent to which ME communities encounter systemic exclusions from digital healthcare services that require English language skills, literacy skills, accessibility to a device (e.g., a computer or smartphone), mobile data, and the skills and confidence to navigate digital platforms. Driven by a critical realist intersectional approach, our multidisciplinary research investigates the socio-technical challenges of accessing digitalised healthcare by exploring ME communities’ lived experiences. By deploying a two-tier qualitative methodology combining 100 in-depth narrative interviews with follow-up audio-visual interviews that draw on human-computer interaction (HCI) methodologies, we explore how digitalised health services intersect with ethnicity and other ethnocultural dimensions to contribute to digital exclusion from healthcare services. We also reflect on the challenges associated with conducting interdisciplinary research to explore the socio-technical barriers faced by different intersections of ME communities, which are often under-researched due to the linguistic or cultural diversity of ME communities.
 
@@ -128,7 +133,8 @@ Read more</a>
 
 ## **On the Journey to Impact: Developing an Impact Strategy Plan for the PRIME Project**
 
-### **Irina Rets; Agnes Kukulska-Hulme; Sara Bailey and Elizabeth FitzGerald | Social Sciences Impact Conference 2023, University of Oxford**
+### **Irina Rets; Agnes Kukulska-Hulme; Sara Bailey and Elizabeth FitzGerald**
+**_Social Sciences Impact Conference 2023, University of Oxford_**
 
 The PRIME project has a dedicated impact and dissemination work package led by The Open University. An approach we took in PRIME is to undertake impact and dissemination work throughout the project’s lifetime rather than focus on impact in the final stages of the project. In this session we discussed the steps we had taken to setting up an impact plan for PRIME, from the stakeholder analysis to developing an impact strategy. We covered the resources we found useful in the early stages of our impact work, how we had utilized participatory approaches to inform our impact plan, and the challenges we had faced so far in coordinating the impact work across this large-scale project, involving both academic and non-academic stakeholders.
 
@@ -137,7 +143,8 @@ Read more</a>
 
 ## **Digital Exclusion and Essential Services: The Experiences of Older Adults Who Identify as Asian or Asian-British**
 
-### **Sara Bailey; Elizabeth FitzGerald; and Agnes Kukulska-Hulme | Digital Inclusion Policy and Research Conference 2023**
+### **Sara Bailey; Elizabeth FitzGerald; and Agnes Kukulska-Hulme**
+**_Digital Inclusion Policy and Research Conference 2023_**
 
 A recent NHS Race & Health Observatory report asserts that ‘digital exclusion is less of an issue within minority ethnic communities’ than within the White population as internet usage is similar for all ethnic groups. However, the ONS data used to support this claim were not disaggregated by age or specific ethnic group. The disaggregated data demonstrate that internet usage among older (55+) individuals who identify specifically as Asian or Asian British is significantly lower than for White individuals from the same age groups. To date, interviews have been conducted with 100 individuals who identify as ethnic minorities including approximately 30 over-55s who identify as Asian or Asian British. The majority of the subsample of 30 stated that they struggle to use digital health, social housing and/or energy platforms due to inadequate access to technology and connectivity (the first level of the digital divide) and/or limited digital skills (the second level of the digital divide). Taken together with ONS data on internet usage among over-55s who identify as Asian or Asian British, our findings demonstrate that the digitalisation of essential services is in fact likely to disproportionately exclude at least some demographic groups from some minoritised communities in the UK.
 
@@ -146,7 +153,8 @@ Read more</a>
 
 ## **Digital Exclusion or Digital Rejection? Exploring the Rejection of Digitalised Social Rights by Racialised Individuals with Migration Backgrounds in the UK**
 
-### **Sara Bailey; Elizabeth FitzGerald; Agnes Kukulska-Hulme and Irina Rets | British Sociological Association Annual Conference 2024**
+### **Sara Bailey; Elizabeth FitzGerald; Agnes Kukulska-Hulme and Irina Rets**
+**_British Sociological Association Annual Conference 2024_**
 
 Now that the hard work of data collection and data analysis is drawing to a close, the project team was delighted to have the opportunity to bring together researchers from both the social and computer sciences to provide a cross-disciplinary overview of our key findings to partners and stakeholders at the May 2024 ‘All Hands Meeting’ which was convened by REPHRAIN.
 
