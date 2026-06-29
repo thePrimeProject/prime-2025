@@ -7,9 +7,9 @@ hideTitle = true
 
 # **Published Papers**
 
-## **Migration, Access to Social Housing and Reflexivity: Migrant Engagement with Choice-Based Lettings Systems in the UK
+## **Migration, Access to Social Housing and Reflexivity: Migrant Engagement with Choice-Based Lettings Systems in the UK**
 
-### **Deborah Menezes, Gina Netto, Sacha Hasan
+### **Deborah Menezes, Gina Netto, Sacha Hasan**
 The disadvantaged position of racialised minorities in accessing the UK’s social housing sector has been extensively documented in previous research, with evidence dating back to the 1960s. However, the specific challenges encountered by migrants remain under-researched. Further, attention has focused on the agency of migrants rather than the reflexivity which underpins the actions they can take. These gaps limit understanding of the extent to which the impacts of migration on individuals seeking to access the social rented sector can be disentangled from the challenges associated with racial disadvantage. They also limit understanding of the nature of migrant reflexivity. To address these omissions, we employed a critical realist framework informed by a literature review to analyse qualitative data generated from a subset of fifteen individuals from a wider sample of a hundred racialised minorities living in the UK. Fieldwork was undertaken across four case study areas with high concentrations of racialised minorities: Tower Hamlets (London), Bradford, Manchester, and Glasgow. By exploring participants’ experiences of engaging with the digital allocation system of Choice-Based Lettings (CBL), we highlight the role of migration-related factors in determining access to social housing through online systems, including country of origin, age at migration, length of stay and education in the UK, employment trajectories, proficiency in English and familiarity with digital systems. We also reveal three components of migrant reflexivity: emotional, communal and strategic. We conclude that attention to reflexivity increases understanding of the distinctive engagement of migrants with CBL systems compared to other racialised minorities.
 
 <a href="https://www.mdpi.com/2076-0760/15/3/159" target="_blank" class="btn btn-primary ">
