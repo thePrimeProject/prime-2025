@@ -100,6 +100,17 @@ Read more</a>
 
 # **Abstracts & Presentations**
 
+## **Quantifying the Cross-sectoral Intersecting Discrepancies within Multiple Groups Using Latent Class Analysis Towards Fairness**
+
+### **Yingfang Yuan, Kefan Chen, Mehdi Rizvi, Lynne Baillie, Wei Pang** Pressented by Mehdi Rizvi
+**_UK AI Research Symposium 2025, Northumbria University _**
+
+The growing interest in fair AI development is evident. The "Leave No One Behind" initiative urges us to address multiple and intersecting forms of inequality in accessing services, resources, and opportunities, emphasising the significance of fairness in AI. This is particularly relevant as an increasing number of AI tools are applied to decision-making processes, such as resource allocation and service scheme development, across various sectors such as health, energy, and housing. Therefore, exploring joint inequalities in these sectors is significant and valuable for thoroughly understanding overall inequality and unfairness. This research introduces an innovative approach to quantify cross-sectoral intersecting discrepancies among user-defined groups using latent class analysis. These discrepancies can be used to approximate inequality and provide valuable insights to fairness issues. 
+
+<a href="https://rai.ac.uk/wp-content/uploads/2025/08/UKAIRS-2025-Event-Programme.pdf" target="_blank" class="btn btn-primary ">
+Read more</a>
+
+
 ## **Minority Ethnic Vulnerabilities in the Access and Use of Digitalised Social Housing Services: A Critical Realist Intersectional Analysis of Housing Policy and Management**
 
 ### **Sacha Hasan and Gina Netto**
